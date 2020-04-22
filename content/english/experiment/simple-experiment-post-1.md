@@ -1,5 +1,5 @@
 ---
-title: 'Simple Project Post '
+title: Simple Experiment Post
 date: 2018-09-12T06:52:36.000+00:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
