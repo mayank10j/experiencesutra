@@ -1,32 +1,10 @@
-Holozone | EXPERIENCESUTRA                         Holozone | EXPERIENCESUTRA                                    
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   Holozone
-
-Articles
---------
-
-Holozone
---------
-
-[SCRIBBLES](http://experiencesutra.com/category/scribbles/)
+---
+title: "Holozone"
+date: 2015-12-12T12:52:36+06:00
+image_webp: images/blog/blog-post-3.webp
+image: images/blog/blog-post-3.jpg
+description : "Holozone"
+---
 
 In an era where head-mounted virtual retinal displays such as the [Hololens](https://www.microsoft.com/microsoft-hololens/en-us) and [Magic Leap](http://www.magicleap.com/#/home) are taking augmented reality to greater heights, here’s a rather retro and cost efficient approach to interacting with holograms in the real world.
 
