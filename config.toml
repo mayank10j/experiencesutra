@@ -1,5 +1,7 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+
+# baseURL = "http://localhost:2222/"
+baseURL = "https://kepler-lab.gitlab.io/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
