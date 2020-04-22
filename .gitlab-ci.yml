@@ -6,7 +6,7 @@ variables:
 
 test:
   script:
-  - hugo --gc --themesDir ./themes/meghna-hugo
+  - hugo
   except:
   - master
 
