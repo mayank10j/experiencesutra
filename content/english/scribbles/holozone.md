@@ -36,24 +36,3 @@ In the sample below we have used the [Leap Motion](https://www.leapmotion.com/) 
 *   [![IMG_20151214_120506440](http://experiencesutra.com/wp-content/uploads/2015/12/IMG_20151214_120506440-1024x576.jpg)](http://experiencesutra.com/wp-content/uploads/2015/12/IMG_20151214_120506440-1024x576.jpg)
 
 \[/vc\_column\]\[/vc\_row\]
-
-Sorry, no posts were found.
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
