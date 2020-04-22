@@ -1,0 +1,64 @@
+Digital duniya – The new life | EXPERIENCESUTRA                         Digital duniya – The new life | EXPERIENCESUTRA                                   
+
+*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
+
+*   [PURPOSE](http://experiencesutra.com/purpose/)
+*   [PEOPLE](http://experiencesutra.com/people/)
+*   [SPACE](http://experiencesutra.com/gallery/space/)
+*   [ABOUT US](http://experiencesutra.com/about-us/)
+
+ [Show menu](#dat-menu)
+
+*   [HOME](http://experiencesutra.com/)
+*   [PROJECTS](http://experiencesutra.com/category/projects/)
+*   [INSIGHTS](http://experiencesutra.com/category/insights/)
+*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
+*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
+*   [CONTACT US](http://experiencesutra.com/contact-us/)
+
+*   [Home](http://experiencesutra.com)
+*   [PROJECTS](http://experiencesutra.com/category/projects/)
+*   Digital duniya – The new life
+
+Articles
+--------
+
+Digital duniya – The new life
+-----------------------------
+
+[PROJECTS](http://experiencesutra.com/category/projects/)
+
+One will be surprised to know that Indian govt. has send out 100 crores SMS to farmers for farming related information. Now we no longer need to show our ID at airports, we can show our Id from an app called [digi locker](https://digilocker.gov.in/). There are 70 other digital initiatives being run by the govt. Unfortunately, awareness is a big problem.
+
+[ICEGOV](http://www.icegov.org/) is an international event to promote electronic governance. This year ICEGOV was held in new Delhi India between 7-9 march. We were asked to come up with a creative idea to help delegates understand Indian govt. digital initiatives.
+
+[![image001](http://experiencesutra.com/wp-content/uploads/2017/05/image001-300x225.png)](http://experiencesutra.com/wp-content/uploads/2017/05/image001.png)
+
+We decided to create a wall of stories – How the life of Indian rural family has changed due to various digital initiatives. The interactions on the wall were made with computer vision and sensors. We used projection mapping technique to make the wall look grand.
+
+The wall turned out to be show stopper at the event. Audience were pleasantly surprised to know about so many good digital initiatives in a playful manner.
+
+[![image002](http://experiencesutra.com/wp-content/uploads/2017/05/image002-300x225.png)](http://experiencesutra.com/wp-content/uploads/2017/05/image002.png)
+
+The wall was inaugurated by honourable India IT minister and I will quote him – “Who has made this” :). We also had the pleasure and honour to have Portuguese minister and Indian minister for state at our installation.
+
+The vision of Digital India programme is inclusive growth in areas of electronic services, products, manufacturing and job opportunities etc. Digital duniya installation ensured that the vision and its impact were well understood by the audience.
+
+[Tweets by @keplervaani](https://twitter.com/twitterdev)
+
+Socialize
+---------
+
+[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
+
+EXPERIENCESUTRA
+---------------
+
+Humanizing technology  
+© 2016 - Kepler186f
+
+[Close Window](#)
+
+### Loading, Please Wait!
+
+This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
