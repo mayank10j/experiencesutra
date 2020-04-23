@@ -13,7 +13,7 @@ Most of the companies look for complete profiles like, data engineer, data scien
 
 At GIDS Bangalore 2015 which is one of the Asia largest developer event, we decided to help developers elevate the thought process and conversation from technology identity to meaningful profile through an interactive installation-XT stone. Meaningful profiles refers to relevant profiles which industries are looking for and makes a developer HOT.
 
-![XTStoneMP4Lite\_1]({{< baseurl >}}uploads/2015/06/XTStoneMP4Lite_1.mp4)
+{{< youtube w7jCQ4uJ794 >}}
 
 XT Stone functionally advocated SapientNitro’s Stand towards XT which was also the theme for the sessions presented by us at GIDS. XT STONE enabled the conference attendees coming from various technology backgrounds to explore emerging trends, profiles, inspirations and growth opportunities under the XT domain.XT Stone offers multiple frames to think about ones profile and aspiration. for e.g.  
 I am Net/Java/front end developer and what skills i need to learn to become a big data developer.?  

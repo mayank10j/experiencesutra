@@ -1,12 +1,12 @@
 ---
-title: "Play Reimagine\_ Technology can bring Art to Life"
+title: "Play Reimagine_ Technology can bring Art to Life"
 date: 2018-05-01T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
+image_webp: uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-385x258_c.png
 image: uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1920x600_c.png
 author: 
 description : ""
 ---
-[Photo Credits: Technology can bring Art to Life - sailor mercury]({{< baseurl >}}uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1024x568.png)
+Photo Credits: Technology can bring Art to Life - sailor mercury
 
 **“_Let’s Play!_”** Even in the most stressful environment, the moment we listen or read this phrase, the thoughts in our mind change completely. Suddenly, our mind relaxes and we experience feelings of fun and excitement. Research have shown that we as humans are very curious and love playing and exploring.
 
@@ -22,7 +22,7 @@ We [Kepler186F](http://experiencesutra.com) believe in the **“Play, Experiment
 
 Below is the video of the installation
 
-![Sapient-India-We-are-back]({{< baseurl >}}uploads/2018/05/Sapient-India-We-are-back-with-another-episode-of...-fbdown.net_.mp4)
+{{< youtube j0rKHI2yR7Q >}}
 
 The installation is based on a simple thought – “Bring my drawings to life”. I drawn something on paper with paint brush and a color and it animates. The first reaction which we get is that it is impossible to move something drawn on paper. But here comes the magic of Image Processing, Deep Learning and Augmented Reality. The combination of these technologies helped us achieve this seamless experience. Later in the video , we see that the same tech stack is used to provide solution to a real life retail store problem.
 
