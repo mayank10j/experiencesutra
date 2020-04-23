@@ -1,36 +1,18 @@
-The Nano-book | EXPERIENCESUTRA                         The Nano-book | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   The Nano-book
-
-Articles
---------
+---
+title: "The Nano-book"
+date: 2015-05-10T12:52:36+06:00
+image_webp: uploads/2015/05/1-385x258_c.png
+image: uploads/2015/05/1-385x258_c.png
+author: Meenakshi Jauhari Chawla
+description : "Content writers… story tellers… word craftsmen… nano beaders… and the future of content ripples with possibilities and possibilities…"
+---
 
 The Nano-book
 -------------
 
-[Meenakshi Jauhari Chawla](http://experiencesutra.com/author/mchaw2/ "Posts by Meenakshi Jauhari Chawla") [INSIGHTS](http://experiencesutra.com/category/insights/)
-
 Content writers… story tellers… word craftsmen… nano beaders… and the future of content ripples with possibilities and possibilities…
 
-[![First](http://experiencesutra.com/wp-content/uploads/2015/05/First-300x202.png "https://www.flickr.com/photos/internetarchivebookimages/14578325780/sizes/z/")](https://www.flickr.com/photos/internetarchivebookimages/14578325780/sizes/z/)
+![First]({{< baseurl >}}uploads/2015/05/First-300x202.png)
 
 M is an avid reader. ‘Bookist’ is what her friends have dubbed her. M reads books ranging from classical mathematics to linguistics all the way to hip-hop poetry and nonsense verse. She also enjoys browsing through the multitude of Bible versions and the latest twist to the multiverse theory; M does not get it completely, but her mind conjures up its own interpretation and imagery (M has an active imagination). And so, she lives a Van Gogh-color-rich life, even as college and its banal routine steamrolls her days and her best years.  
 Today M stretches on the floor of the metro, and her attention is embedded in the romantic best-seller she has just bought Sun and Love in Cannes. With its vividly designed cover, the book had called out to her in the bookshop that morning. Later, it pretty much jumped into her hand and she simply followed her gut and bought it.
@@ -43,7 +25,7 @@ Just as her stop is announced, she shuts her book with a thump, and on a girlish
 
 M is a girl next door, and her behavior is not uncommon in the future that awaits us, a book in hand and its pages hooked up to a social cloud.
 
-[![](http://experiencesutra.com/wp-content/uploads/2015/05/second-e1432535909655.png "https://www.flickr.com/photos/nicholasscarpinato/18009091525/sizes/l")](https://www.flickr.com/photos/nicholasscarpinato/18009091525/sizes/l)
+![]({{< baseurl >}}uploads/2015/05/second-e1432535909655.png)
 
 **Nano-worlds to solidify an experience**
 
@@ -56,7 +38,7 @@ A day in the life of M. She has just bought a copy of the Dostoevsky collectible
 
 How does M do it? Nanomaterial-enabled book leaves are worlds hidden in pages, ready to come alive at a touch and a tap. Holographic three-dimensional. Neat. Simple. And seamless. The physical and digital on the same side of the coin, in the page of a book.
 
-[![Third](http://experiencesutra.com/wp-content/uploads/2015/05/Third.png "https://www.flickr.com/photos/internetarchivebookimages/14730443336/sizes/z/")](https://www.flickr.com/photos/internetarchivebookimages/14730443336/sizes/z/)
+![Third]({{< baseurl >}}uploads/2015/05/Third.png)
 
 **Why should digital be the barrier we forgot to tear down for the future nano- natives?**
 
@@ -71,7 +53,9 @@ And so, now our society is (word)pressing technology for its current and vexing 
 Nanotechnology! A little answer. A powerful answer. The nano-book. Creating the perfect experience of a physical book with a digital fingerprint. A mathematics problem in your text book. The problem exhibits its three-dimensional contours in crystal-precise holographic shapes. Work on it. Think about it. Find the solution in an ‘https://’ address. The benzene ring. Open it out. Plug the carbon atoms in other places… discover the new atom.  
 Go on… It’s knowledge democracy and everyone has a stake in it.
 
-[![](http://experiencesutra.com/wp-content/uploads/2015/05/Fourth.png "https://www.flickr.com/photos/internetarchivebookimages/14566744290/sizes/z/")](https://www.flickr.com/photos/internetarchivebookimages/14566744290/sizes/z/)**And finally, the best story in the world…**
+![]({{< baseurl >}}uploads/2015/05/Fourth.png)
+
+**And finally, the best story in the world…**
 
 **Worth living: The nano story**
 
@@ -85,32 +69,3 @@ To weave a story with and within content is old hat. Content is now nano-content
 Nano-content has nano-interactions beaded into it – those tiny but infinitely meaningful touch points where the user picks up the needle and adds a stitch in his own color and the story becomes his. Imagine the power of the nano-story.
 
 Content writers… story tellers… word craftsmen… nano beaders… and the future of content ripples with possibilities and possibilities…
-
-![Meenakshi Jauhari Chawla](http://0.gravatar.com/avatar/0b03cd96bc578b9c66ef9d447b17c8a4?s=100&d=mm&r=g)
-
-### Meenakshi Jauhari Chawla
-
-[View more by Meenakshi Jauhari Chawla](http://experiencesutra.com/author/mchaw2/)
-
-[Featured ![If computer could hear us](http://experiencesutra.com/wp-content/uploads/2015/07/shutterstock_72339190-397x310_c.jpg)   INSIGHTS **If computer could hear us**](http://experiencesutra.com/insights/if-computer-can-hear-us-1/) 
-
-[Featured ![Defining the future of technology](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_198885266-397x310_c.jpg)   INSIGHTS **Defining the future of technology**](http://experiencesutra.com/insights/defining-the-future-of-technology/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

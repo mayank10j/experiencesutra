@@ -1,39 +1,21 @@
-Stories of a future | EXPERIENCESUTRA                         Stories of a future | EXPERIENCESUTRA                                 
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Stories of a future
-
-Articles
---------
+---
+title: "Stories of a future"
+date: 2015-01-20T12:52:36+06:00
+image_webp: uploads/2015/01/shutterstock_251390434-385x258_c.jpg
+image: uploads/2015/01/shutterstock_251390434-385x258_c.jpg
+author: Harry Samson
+description : "Stories of the future will enable us to make the sky fall exactly how and when we want. As consumers, we will earn that power."
+---
 
 Stories of a future
 -------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 I like stories – I like to listen to stories and I like to tell stories. Words and images, for me, are living things that lead me into new worlds where I craft my dreams, just the way I want, something that is not readily available in real world.  
 Stories are going to be embroidered into human lives for as long as human life persists, to lend their singular beauty and color. Like fallible human memory they might change color and texture, but stories will continue to percolate all facets of life. And technology, our faithful companion, will make our stories come alive, and how!
 
 **The sky is falling**
 
-[![theskyisfalling](http://experiencesutra.com/wp-content/uploads/2015/01/theskyisfalling.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/theskyisfalling.png)
+![theskyisfalling]({{< baseurl >}}uploads/2015/01/theskyisfalling_385x258.png)
 
 Stories of the future will enable us to make the sky fall exactly how and when we want. As consumers, we will earn that power.
 
@@ -43,7 +25,7 @@ We think about these stories and characters long after their images have faded f
 
 Stories of the future will engage our senses in a whole new way. We will be able to reach in and put flowers at the old lady’s doorstep. We will wait for her to smile when she emerges from her door the following day. Technology and content folks will arrange, and rearrange our onscreen  realms like gods, and we, the consumers will experience  these worlds in ways that will combine our realities and imaginations.
 
-[![tabmug](http://experiencesutra.com/wp-content/uploads/2015/01/tabmug.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/tabmug.png)
+![tabmug]({{< baseurl >}}uploads/2015/01/tabmug_50.png)
 
 Imagine this: A bank based in Europe sets up its Indian shop in the Mumbai of the future. As a launch vehicle, it creates the perfect interactive love story, and consumers love the shy boy Ken trying to win the feisty Mumbaikar Asha. Imagine if a Bengali girl in downtown Kolkata can reach out and ‘put’ a red bindi on Asha’s forehead, or if she can change the color of Asha’s dress. Or give her a Bengali song to sing in the Mumbai drizzle. That is the future.
 
@@ -51,7 +33,7 @@ Changing the course of a life, albeit in a story, is the magic we crave. Content
 
 **The Real Democracy**
 
-[![shutterstock_202722487](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_202722487-1024x375.jpg)](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_202722487.jpg)
+![shutterstock_202722487]({{< baseurl >}}uploads/2015/01/shutterstock_202722487_385x258.jpg)
 
 Content will be democratized. Crowd sourced stories will fly (when the sky falls) and before the morning is out, an orange sky will have replaced the fallen azure! While individual flavors of a story will find favor with individuals, a backbone narrative will run through them all anchoring the brand and message. It could be immensely exciting, and a huge challenge to content creators.  
 Content aggregators will be the backbone of these rich experiential story boards. Editors and storytellers of today will surely morph into content aggregators of tomorrow – grafting local flavors upon global culture, sifting and pulling together real-time user content to make stories breathe in sync with users’ heartbeats.
@@ -91,26 +73,3 @@ Content writers will be the gadget-conversationalists – creating personalized,
 Real human conversations are threaded with memory, and built upon shared experiences, images and thoughts about things, ideas, hopes, fears – a microcosm of the universe. Real conversations have a dash of fun, coupled with love, surprise, up and down the scale, and often that magical union of the senses. Machine-conversations will need to simulate that shared experience, the elusive human-like quality.
 
 A content challenge, but isn’t the future always a challenge to be overcome and conquered…the Darwinian roadmap for survival? So the sky does not fall upon our collective human heads.
-
-[Featured ![If computer could hear us](http://experiencesutra.com/wp-content/uploads/2015/07/shutterstock_72339190-397x310_c.jpg)   INSIGHTS **If computer could hear us**](http://experiencesutra.com/insights/if-computer-can-hear-us-1/) 
-
-[Featured ![Defining the future of technology](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_198885266-397x310_c.jpg)   INSIGHTS **Defining the future of technology**](http://experiencesutra.com/insights/defining-the-future-of-technology/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
