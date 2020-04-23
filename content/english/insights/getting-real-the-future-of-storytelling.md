@@ -1,5 +1,5 @@
 ---
-title: "Everyone needs to be a story teller"
+title: "Getting Real – The future of storytelling"
 date: 2015-06-18T12:52:36+06:00
 image_webp: uploads/2015/06/shutterstock_129557375-385x258_c.jpg
 image: uploads/2015/06/shutterstock_129557375-385x258_c.jpg
