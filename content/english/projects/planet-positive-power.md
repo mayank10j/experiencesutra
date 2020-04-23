@@ -1,6 +1,6 @@
 ---
 title: "Planet Positive Power"
-date: 2019-06-03T12:52:36+06:00
+date: 2017-10-25T12:52:36+06:00
 image_webp: uploads/2018/01/createAR.jpg
 image: uploads/2019/06/createAR.jpg
 author: 

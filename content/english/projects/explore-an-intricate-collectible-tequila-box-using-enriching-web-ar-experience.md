@@ -1,6 +1,6 @@
 ---
 title: "Explore an intricate collectible tequila box using Enriching Web AR experience"
-date: 2019-06-03T12:52:36+06:00
+date: 2018-12-03T12:52:36+06:00
 image_webp: uploads/2018/01/createAR.jpg
 image: uploads/2019/06/createAR.jpg
 author: 
