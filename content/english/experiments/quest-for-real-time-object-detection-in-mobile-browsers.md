@@ -1,6 +1,6 @@
 ---
 title: "Quest for Real time Object detection in Mobile Browsers"
-date: 2017-06-03T12:52:36+06:00
+date: 2018-08-07T12:52:36+06:00
 image_webp: uploads/2018/08/365-640x480_c.jpg
 image: uploads/2018/08/365-640x480_c.jpg
 author: 
