@@ -1,19 +1,14 @@
 ---
 title: "IMI on ODROID XU4"
-date: 2018-09-12T12:52:36+06:00
-image_webp: uploads/2018/08/365-1920x600_c.jpg
-image: uploads/2018/08/365-1920x600_c.jpg
+date: 2018-05-02T12:52:36+06:00
+image_webp: uploads/2018/05/Mirror_StoryBoard_02MAY181.jpg
+image: uploads/2018/05/Mirror_StoryBoard_02MAY181.jpg
 author: 
 description : ""
 ---
 
 
-IMI on ODROID XU4
------------------
-
-[EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-
-> _IMI can now run on single board computer peripherals …_
+*IMI can now run on single board computer peripherals*
 
 This is a follow up post to our previous blog post [Mirror Reimagined](http://experiencesutra.com/projects/the-mirror-reimagined_-a-smart-shopping-assistant-for-the-retail/), which was about Sapient smart mirror application IMI developed here in Kepler. A quick recap – IMI generates the apparel recommendation in the physical store based on what you wear/ show in front of it.
 

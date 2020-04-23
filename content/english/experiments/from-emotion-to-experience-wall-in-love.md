@@ -39,14 +39,31 @@ On how was it made possible, There are three parts of the installation:
 
 1) A life size projection of person which represents face of the installation. We captured a real life person with her various permutations of expressions. We then projected this on real life size acrylic sheet via a browser Application
 
+&nbsp;
+&nbsp;
+
 ![life size projection]({{< baseurl >}}uploads/2016/01/Screen-Shot-2016-01-06-at-7.49.21-PM-1024x569.png)
+
+&nbsp;
+&nbsp;
 
 2) A computer vision module powered by Microsoft Kinect which is programmed in OpenCV & C++ to provide facial expressions of person in front with its distance from Installations. Combining cues provided by computer vision module system is able to measure expression, proximity and confidence of person.
 
+&nbsp;
+&nbsp;
+
 ![computer vision to detect emotions]({{< baseurl >}}uploads/2016/01/Screen-Shot-2016-01-06-at-7.52.32-PM-1024x566.png)
+
+&nbsp;
+&nbsp;
 
 3) An ambient program to create a sensing & responsive environment, that controls lights, colors and sound, to include you in the space of experience and give you hints of what’s happening around you.
 
+&nbsp;
+&nbsp;
+
 ![ambient environment]({{< baseurl >}}uploads/2016/01/Screen-Shot-2016-01-06-at-7.52.47-PM-1024x578.png)
 
+&nbsp;
+&nbsp;
 
