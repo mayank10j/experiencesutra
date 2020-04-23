@@ -24,10 +24,16 @@ We explored various NLP engine for chatbots and here is the comparison of promin
 |  **Content addition and updating**  |  Web based interface to updated/add new entity/chat flow   |  Web based interface to update/delete/add intent/entity  |     There is no single API that does intent and entity recognition in a single call.    |  Web based interface to update/delete/add intent/entity     |
 |  **Notes**  |  Wit.ai supports 50 different languages including English, Chinese, Japanese, Polish, Ukrainian and RussianProvides a nice combination of both voice recognition and machine learning for developers.    ||  The classifier supports English (en), Arabic (ar), French (fr), German (de), Japanese (ja), Italian (it), Portuguese (pt), and Spanish (es).      |S  peech to Text and Text to Speech capabilities, along with machine  learning.     |  
 
-  
-<br><br/> 
-<br><br/> 
+<pre>
+hello, this is
+   just an     example
 
+
+
+....
+</pre>
+&nbsp;
+&nbsp;
 
 #### Resources and further reading:  
 
