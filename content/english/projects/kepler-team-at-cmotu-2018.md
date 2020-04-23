@@ -1,8 +1,8 @@
 ---
 title: "KEPLER Team at CMOTu 2018"
 date: 2018-08-06T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2018/08/reimagine_385x258.png
+image: uploads/2018/08/IMG_0471-1920x600_c.jpeg
 author: 
 description : ""
 ---
