@@ -1,8 +1,8 @@
 ---
 title: "Interactive wall of stories"
 date: 2019-06-03T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2016/05/KDy2015-385x258_c.png
+image: uploads/2016/05/KDy2015-1920x600_c.png
 author: 
 description : ""
 ---
@@ -14,3 +14,8 @@ Interactive wall of stories is an experiment to explore the possibilities of lev
 Run you hand on the wall and it can play music, pull a slingshot and the wall will start the story of India [mars mission](http://www.isro.gov.in/pslv-c25-mars-orbiter-mission), a triumph of low cost engineering and creativity. Stick the seeds on the wall and will tell the story of [Jadav payang](https://en.wikipedia.org/wiki/Jadav_Payeng) known as forrest man in India. There were many more stories. The wall was flat and constructed from canvas with embedded sensors and camera.
 
 The installation was a show stopper at [Kyoorious](http://designyatra.com/) and highlighted the fact that there is tremendous value in crafting experiences that go beyond screens.
+&nbsp;
+&nbsp;
+{{< vimeo 168021782 >}}
+&nbsp;
+&nbsp;
