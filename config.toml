@@ -2,7 +2,7 @@
 
 # baseURL = "http://localhost:2222/"
 baseURL = "https://kepler-lab.gitlab.io/experiencesutra/"
-title = "Meghna"
+title = "EXPERIENCESUTRA | Humanizing Technology"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
