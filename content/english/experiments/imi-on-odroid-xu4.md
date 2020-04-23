@@ -1,27 +1,12 @@
-IMI on ODROID XU4 | EXPERIENCESUTRA                         IMI on ODROID XU4 | EXPERIENCESUTRA                                   
+---
+title: "IMI on ODROID XU4"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/08/365-1920x600_c.jpg
+image: uploads/2018/08/365-1920x600_c.jpg
+author: 
+description : ""
+---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   IMI on ODROID XU4
-
-Articles
---------
 
 IMI on ODROID XU4
 -----------------
@@ -52,25 +37,3 @@ To resolve these issues, we had to do the following:
 
 Doing the above helped us resolve all the issues. Our Video conversion ran on a different machine, and posed no problems at all. The Android images had in built ODROID utility, which supported screen rotation, and the driver also make utilization of hardware based acceleration. In case you are wondering how will installed our application on Android, we used an application _Termux ([Termux Emulator App](https://termux.com)), which enabled us use apt-get on our system._
 
-[Featured ![CreateAR – when, AR and AI meet](http://experiencesutra.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-02-at-10.36.09-AM-397x310_c.png)   EXPERIMENTS **CreateAR – when, AR and AI meet**](http://experiencesutra.com/experiments/createar-when-ar-and-ai-meet/) 
-
-[Featured ![Mobile deployment of deep learning models](http://experiencesutra.com/wp-content/uploads/2018/09/AR-397x310_c.jpeg)   EXPERIMENTS **Mobile deployment of deep learning models**](http://experiencesutra.com/experiments/mobile-deployment-of-deep-learning-models/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

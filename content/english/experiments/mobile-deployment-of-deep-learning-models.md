@@ -1,32 +1,16 @@
-Mobile deployment of deep learning models | EXPERIENCESUTRA                         Mobile deployment of deep learning models | EXPERIENCESUTRA                                   
+---
+title: "Mobile deployment of deep learning models"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/09/AR-1920x600_c.jpeg
+image: uploads/2018/09/AR-1920x600_c.jpeg
+author: 
+description : ""
+---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   Mobile deployment of deep learning models
-
-Articles
---------
 
 Mobile deployment of deep learning models
 -----------------------------------------
 
-[EXPERIMENTS](http://experiencesutra.com/category/experiments/)
 
 With the proliferation of deep learning libraries, we are facing the paradox of choices, there are so many different libraries where we can train our deep learning models. To choose one of these is giving us lots of anxiety.
 
@@ -42,31 +26,10 @@ So we were able to use our training data for mobilenet transfer learning in turi
 
 So, at last, we used Tensorflow for training and able to convert tensorflow modlel to coreML using this project [tf-coreml](https://github.com/tf-coreml/tf-coreml) . After initial hiccups, we were able to run the whole network with quite a good accuracy on mobile. You can see the results:
 
-![Mayank Jain](http://2.gravatar.com/avatar/e4f97426870388bd7c4b8ca3ffd06fb7?s=100&d=mm&r=g)
+&nbsp;
+&nbsp;
 
-### Mayank Jain
+{{< youtube PHphtCOODzA >}}
 
-[View more by Mayank Jain](http://experiencesutra.com/author/mjain/)
-
-[Featured ![Contraption](http://experiencesutra.com/wp-content/uploads/2018/01/Pic_for-Blogpost-397x310_c.jpg)   EXPERIMENTS **Contraption**  by vasu Agrawal  •](http://experiencesutra.com/experiments/contraption/) 
-
-[Featured ![Comparison of advanced NLP tools for chatbots](http://experiencesutra.com/wp-content/uploads/2015/05/Sound-397x310_c.jpg)   EXPERIMENTS **Comparison of advanced NLP tools for chatbots**](http://experiencesutra.com/experiments/comparison-of-advanced-nlp-tools-for-chatbots/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
+&nbsp;
+&nbsp;
