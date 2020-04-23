@@ -7,7 +7,6 @@ author:
 description : ""
 ---
 
-## Autolysis
 
 When renowned Delhi-based artist Asim Waqif approached SapientNitro for his new exhibition – Autolysis, the brief was simple. The exhibition was an exploration of decay, dereliction, abuse and subversion of materials and ideas. He wanted consumers to experience the exhibition through storytelling and technology. He wanted us to enable the exhibition to move away from the traditional medium of consuming art, i.e, through visual medium. Instead break boundaries through interactivity, creativity and technology, thus transforming the way art is consumed.
 
