@@ -1,8 +1,8 @@
 ---
 title: "XT Stone – Build Your Profile"
 date: 2015-06-03T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2015/06/11174213_994235813927899_8400303142619527239_o-385x258_c.jpg
+image: uploads/2015/06/11174213_994235813927899_8400303142619527239_o-1920x600_c.jpg
 author: 
 description : ""
 ---
@@ -13,7 +13,7 @@ Most of the companies look for complete profiles like, data engineer, data scien
 
 At GIDS Bangalore 2015 which is one of the Asia largest developer event, we decided to help developers elevate the thought process and conversation from technology identity to meaningful profile through an interactive installation-XT stone. Meaningful profiles refers to relevant profiles which industries are looking for and makes a developer HOT.
 
-[http://experiencesutra.com/wp-content/uploads/2015/06/XTStoneMP4Lite\_1.mp4](http://experiencesutra.com/wp-content/uploads/2015/06/XTStoneMP4Lite_1.mp4)
+![XTStoneMP4Lite\_1]({{< baseurl >}}uploads/2015/06/XTStoneMP4Lite_1.mp4)
 
 XT Stone functionally advocated SapientNitro’s Stand towards XT which was also the theme for the sessions presented by us at GIDS. XT STONE enabled the conference attendees coming from various technology backgrounds to explore emerging trends, profiles, inspirations and growth opportunities under the XT domain.XT Stone offers multiple frames to think about ones profile and aspiration. for e.g.  
 I am Net/Java/front end developer and what skills i need to learn to become a big data developer.?  
@@ -24,6 +24,6 @@ What are the trends and hot profiles these days?Developer can start from any of 
 
 XT stone epitomizes wonderful amalgamation of physical and digital world. The front end was a wooden capacitive touch interface to give the multi sensory experience of touch-The little roughness on the surface, Smell of polished wood; It captures user selections and emotions with sensors and computer vision, Machine learning is used to analyze the data and human emotions finally using Sound and Light as output.
 
-[![XT Stone BEhind](http://experiencesutra.com/wp-content/uploads/2015/06/XT-Stone-BEhind.jpeg)](http://experiencesutra.com/wp-content/uploads/2015/06/XT-Stone-BEhind.jpeg)
+![XT Stone BEhind]({{< baseurl >}}uploads/2015/06/XT-Stone-BEhind.jpeg)
 
 What is your Profile!!

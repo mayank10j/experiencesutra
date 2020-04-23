@@ -2,12 +2,11 @@
 title: "Play Reimagine\_ Technology can bring Art to Life"
 date: 2018-05-01T12:52:36+06:00
 image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image: uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1920x600_c.png
 author: 
 description : ""
 ---
-
-[![Photo Credits: Technology can bring Art to Life - sailor mercury](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1024x568.png)](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw.png)
+[Photo Credits: Technology can bring Art to Life - sailor mercury]({{< baseurl >}}uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1024x568.png)
 
 **“_Let’s Play!_”** Even in the most stressful environment, the moment we listen or read this phrase, the thoughts in our mind change completely. Suddenly, our mind relaxes and we experience feelings of fun and excitement. Research have shown that we as humans are very curious and love playing and exploring.
 
@@ -19,11 +18,11 @@ I am sure by this time, a new thought had popped in your head – “Ha! all thi
 
 **But NO**, this is equally important for adults.
 
-We [Kepler186F](https://vox.publicis.sapient.com/groups/keplerinside) believe in the **“Play, Experiment, ReImagine”**. Few days back our team came across an installation by Zach Lieberman. The installations was fun filled and got all of us excited. Within few minutes all of us had decided to re-create the installation with a twist. And an hour later we were playing with different technology options which could be used to get the installation working.  We did few experiments, and In the following month the installation was ready.
+We [Kepler186F](http://experiencesutra.com) believe in the **“Play, Experiment, ReImagine”**. Few days back our team came across an installation by Zach Lieberman. The installations was fun filled and got all of us excited. Within few minutes all of us had decided to re-create the installation with a twist. And an hour later we were playing with different technology options which could be used to get the installation working.  We did few experiments, and In the following month the installation was ready.
 
 Below is the video of the installation
 
-[http://experiencesutra.com/wp-content/uploads/2018/05/Sapient-India-We-are-back-with-another-episode-of...-fbdown.net\_.mp4](http://experiencesutra.com/wp-content/uploads/2018/05/Sapient-India-We-are-back-with-another-episode-of...-fbdown.net_.mp4)
+![Sapient-India-We-are-back]({{< baseurl >}}uploads/2018/05/Sapient-India-We-are-back-with-another-episode-of...-fbdown.net_.mp4)
 
 The installation is based on a simple thought – “Bring my drawings to life”. I drawn something on paper with paint brush and a color and it animates. The first reaction which we get is that it is impossible to move something drawn on paper. But here comes the magic of Image Processing, Deep Learning and Augmented Reality. The combination of these technologies helped us achieve this seamless experience. Later in the video , we see that the same tech stack is used to provide solution to a real life retail store problem.
 
