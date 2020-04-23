@@ -1,32 +1,14 @@
-How To Stay Relevant In 2030 | EXPERIENCESUTRA                         How To Stay Relevant In 2030 | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   How To Stay Relevant In 2030
-
-Articles
---------
+---
+title: "How To Stay Relevant In 2030"
+date: 2018-08-03T12:52:36+06:00
+image_webp: uploads/2018/08/34005906806_ae9722f4bf_o-385x258_c.jpg
+image: uploads/2018/08/34005906806_ae9722f4bf_o-385x258_c.jpg
+author: Mayank Jain
+description : "The primary concern regarding Aadhaar is that a centralized identity database containing demographic and biometric data of over a billion people is an obvious honeypot for hackers."
+---
 
 How To Stay Relevant In 2030
 ----------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 “Robot kills colleague at volksvagen”, This news was everywhere in 2015 fuelling the intense speculation about robots taking over the world. We have entered the smart computing age and there is no going back. It is unfortunate that recent debates about the future of jobs have mainly focused on whether or not they are at risk of automation. Is the fourth industrial revolution (machine age) a capitalist dream or worker nightmare? How many middle class jobs will soon be eliminated? While these are valid questions, they blind us from the benefits and make us doubt the benefits of change.
 
@@ -99,26 +81,3 @@ Is it not a narrow lens to think about 2030 jobs only through the lens of AI? Th
 [How to prepare workers for an automated future](https://www.cnbc.com/2018/02/02/automation-will-kill-1-million-jobs-by-2026-what-we-need-to-do-commentary.html)  
 [Brett King augmented lane](https://www.amazon.in/Augmented-Life-Smart-Brett-King/dp/9814634034/)  
 [When Machine do everything](https://www.amazon.in/What-When-Machines-Everything-Algorithms/dp/111927866X)
-
-[Featured ![The Nano-book](http://experiencesutra.com/wp-content/uploads/2015/05/1-397x310_c.png)   INSIGHTS **The Nano-book**  by Meenakshi Jauhari Chawla  •](http://experiencesutra.com/insights/the-nano-book-notes-from-the-future/) 
-
-[Featured ![Innovation Lab – Your Idea Factory](http://experiencesutra.com/wp-content/uploads/2015/01/05-397x310_c.jpg)   INSIGHTS **Innovation Lab – Your Idea Factory**](http://experiencesutra.com/insights/use-innovation-labs-to-create-continuous-streams-of-new-ideas/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

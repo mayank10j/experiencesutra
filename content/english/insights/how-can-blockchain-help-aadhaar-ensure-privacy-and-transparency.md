@@ -1,32 +1,14 @@
-How Can Blockchain Help Aadhaar Ensure Privacy and Transparency? | EXPERIENCESUTRA                         How Can Blockchain Help Aadhaar Ensure Privacy and Transparency? | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   How Can Blockchain Help Aadhaar Ensure Privacy and Transparency?
-
-Articles
---------
+---
+title: "How Can Blockchain Help Aadhaar Ensure Privacy and Transparency?"
+date: 2018-01-11T12:52:36+06:00
+image_webp: uploads/2018/01/how_blockchain_works-397x310_c.png
+image: uploads/2018/01/how_blockchain_works-397x310_c.png
+author: Mayank Jain
+description : "The primary concern regarding Aadhaar is that a centralized identity database containing demographic and biometric data of over a billion people is an obvious honeypot for hackers."
+---
 
 How Can Blockchain Help Aadhaar Ensure Privacy and Transparency?
 ----------------------------------------------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 A much-heated conversation started during the end of last year as the honorable Supreme Court of India delivered its judgment holding the right to privacy as a fundamental right. A substantially big chunk of these conversations revolved around Aadhaar – the world’s largest unique identification system that holds records of over 1.19 billion Indian residents. Aadhaar collects name, date of birth, gender, address, mobile/email (optional) of residents of India and stores these against the corresponding biometric data. With such gargantuan amount of private data stored in a centralized database, the concerns were legit. The SC judgment makes it clear that systems must safeguard matters where there is a “reasonable expectation of privacy”, and it must go beyond personal privacy and also protect individual autonomy.
 
@@ -44,7 +26,7 @@ In the remaining few paragraphs I shall try to propose answers to the following 
 
 I shall start with a brief introduction on how blockchain works. A blockchain, as many of the readers would be aware of, is a distributed ledger consisting of blocks. Each block contains multiple verified transactions. Blocks contain a secured hash which is generated taking into account the index, timestamp, data inside the block, and the hash of the previous block. Such a design makes a blockchain auditable. Any modification to the blocks, after a verified block has been added to the blockchain, would generate a new hash which will be inconsistent with the hashes that precede. The following diagram explains how a blockchain transaction works.
 
-[![how_blockchain_works](http://experiencesutra.com/wp-content/uploads/2018/01/how_blockchain_works.png)](http://experiencesutra.com/wp-content/uploads/2018/01/how_blockchain_works.png)
+![how_blockchain_works]({{< baseurl >}}uploads/2018/01/how_blockchain_works.png)
 
 In our proposed blockchain for Aadhaar, there will be multiple UIDAI trusted nodes (i.e. state governments can opt to become one of the UIDAI trusted nodes). Trusted nodes will be able to validate a transaction and append blocks in the blockchain. Only these trusted nodes will be able to decrypt the data stored in the blocks. Now, because there will be multiple nodes involved in the peer-to-peer network and every node will have a full copy of the blockchain, one or a few nodes getting compromised will not pose a threat to the blockchain. To be able to validate a malicious transaction (i.e. add a new block, or decrypt a data) a hacker must take control of at least 51% of the nodes. Additionally, nodes other than the UIDAI trusted nodes (i.e. NGOs, activists, anybody who wants to) will be able to download the entire blockchain and verify the hashes. This way, anyone will be able to check the integrity of the blockchain without actually looking into the data.
 
@@ -60,26 +42,3 @@ In order to ensure privacy in the Aadhaar authentication process carried out by 
 Such a smart contract ensures that no data is shared with the AUA and the entire process can be verified at a later point in time.
 
 In conclusion, it can be said that a more secure and transparent Aadhaar is indeed possible using blockchain. It would protect the Aadhaar holders’ privacy and build trust in the overall system.
-
-[Featured ![How To Stay Relevant In 2030](http://experiencesutra.com/wp-content/uploads/2018/08/34005906806_ae9722f4bf_o-397x310_c.jpg)   INSIGHTS **How To Stay Relevant In 2030**](http://experiencesutra.com/insights/how-to-stay-relevant-in-2030/) 
-
-[Featured ![Everyone needs to be a story teller](http://experiencesutra.com/wp-content/uploads/2016/10/15263928890_5a03ac17e3_k-397x310_c.jpg)   INSIGHTS **Everyone needs to be a story teller**  by Alok Kumar  •](http://experiencesutra.com/insights/everyone-needs-to-be-a-story-teller/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

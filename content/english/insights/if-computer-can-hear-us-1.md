@@ -1,32 +1,14 @@
-If computer could hear us | EXPERIENCESUTRA                         If computer could hear us | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   If computer could hear us
-
-Articles
---------
+---
+title: "If computer could hear us"
+date: 2015-07-13T12:52:36+06:00
+image_webp: uploads/2015/07/shutterstock_72339190-385x258_c.jpg
+image: uploads/2015/07/shutterstock_72339190-385x258_c.jpg
+author: Harry Samson
+description : "With the advancement in IOT (internet of things) which is making computing more  pervasive and ubiquitous the human computer interaction begs for newer form of interactions to meet human needs."
+---
 
 If computer could hear us
 -------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 JARVIS the home computing system of Tony Stark in Iron Man movie takes cares of everything from house to his suite. JARVIS understands and converses with Stark in a natural way.
 
@@ -36,7 +18,7 @@ With the advancement in IOT (internet of things) which is making computing more 
 
 “How can we make computer invisible.”
 
-[![2](http://experiencesutra.com/wp-content/uploads/2015/07/2.png)](http://experiencesutra.com/wp-content/uploads/2015/07/2.png)
+![ComputerInvisible]({{< baseurl >}}uploads/2015/07/2_385x258.png)
 
 It is not about simplifying the UI as however simplified the UI is, the interaction still requires considerable learning and actions from the user. Wouldn’t it be easier if we can ask our room to switch ON the TV or AC? If we have a questions which kids have all the time by the way, why can’t we just ask it, and get the answer rather googling it on our mobiles/laptops and then try to figure out answers from thousand of pages. The conventional interaction approach will any way fail for wearables or minituarized computers. Can you imagine reading a mail on your smart watch? It would be much intuitive though if it can read the mail for us or write the mail for us.
 
@@ -67,26 +49,3 @@ In our quest to create intelligent environment, we used simple components which 
 [http://experiencesutra.com/wp-content/uploads/2015/05/shelfieCompressed.mp4](http://experiencesutra.com/wp-content/uploads/2015/05/shelfieCompressed.mp4)
 
 If the future of experience is natural then there is no doubt that voice is going to control a significant part of experience in human computer interaction.
-
-[Featured ![Defining the future of technology](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_198885266-397x310_c.jpg)   INSIGHTS **Defining the future of technology**](http://experiencesutra.com/insights/defining-the-future-of-technology/) 
-
-[Featured ![The Nano-book](http://experiencesutra.com/wp-content/uploads/2015/05/1-397x310_c.png)   INSIGHTS **The Nano-book**  by Meenakshi Jauhari Chawla  •](http://experiencesutra.com/insights/the-nano-book-notes-from-the-future/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**2**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
