@@ -7,7 +7,7 @@ author:
 description : ""
 ---
 
-When you go to technology conference, it is quite common to stumble upon terms like big data, artificial intelligence and machine learning but when you go to digital marketing conference and you hear marketing leaders talking about artificial intelligence and machine learning, one must say these technologies are really transforming the digital space in every industry.
+When you go to technology conference, it is quite common to stumble upon terms like big data, artificial intelligence and machine learning. But when you go to digital marketing conference and you hear marketing leaders talking about artificial intelligence and machine learning, one must say these technologies are really transforming the digital space in every industry.
 
 During the last week of May, we participated in [Zee MELT](http://zeemelt.com/) – India’s biggest festival for disruptive marketing and communications. In its 3rd edition, #ZEEMELT brought together some of the biggest names in marketing, media and digital innovation and creativity, over two days at NSCI, Mumbai.
 
