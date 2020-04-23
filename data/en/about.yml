@@ -2,6 +2,7 @@
 about:
   enable : true
   title : About Us
+  video : https://www.youtube.com/embed/bROUqOYqL3E 
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
