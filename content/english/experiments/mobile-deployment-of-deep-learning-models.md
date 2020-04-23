@@ -7,9 +7,6 @@ author:
 description : ""
 ---
 
-Mobile deployment of deep learning models
------------------------------------------
-
 
 With the proliferation of deep learning libraries, we are facing the paradox of choices, there are so many different libraries where we can train our deep learning models. To choose one of these is giving us lots of anxiety.
 

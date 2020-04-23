@@ -13,7 +13,7 @@ Our system has two primary filters for apparel search color based and style base
 
 &nbsp;
 &nbsp;
-![mirror-arch]({{< baseurl >}}uploads//2018/05/mirror-arch-1024x475.png)
+![mirror-arch]({{< baseurl >}}uploads/2018/05/mirror-arch-1024x475.png)
 &nbsp;
 &nbsp;
 
