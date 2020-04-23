@@ -1,15 +1,11 @@
 ---
 title: "The New Store Assistant – Mirror"
-date: 2018-09-12T12:52:36+06:00
-image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
-image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+date: 2017-09-05T12:52:36+06:00
+image_webp: uploads/2017/09/mirror_installation.jpeg
+image: uploads/2017/09/mirror_installation.jpeg
 author: 
 description : ""
 ---
-
-
-The New Store Assistant – Mirror
---------------------------------
 
 
 The mirror is not just another décor. From “once upon a time..” till this day, the mirror attracts human imagination like no other inanimate object. Interacting, conversing with the mirror is part and parcel of human existence. The mirror is the witness of countless human emotions. The young teen rehearsing his pickup lines, the actor practicing their dialog for their first big stage performance, the little Snow White secretly applying her mother’s lipsticks for the first time, the health-obsessed gym goer admiring his muscles, the showstopper preparing herself for the party tonight, the mirror witnesses it all.
@@ -24,7 +20,14 @@ The answer lies in two separate insights
 
 ImI – an Interactive Mirror, shows what clothes you can buy and at the same time keeps non-shoppers busy through interactive activities.
 
-[http://experiencesutra.com/wp-content/uploads/2017/09/VID\_20170911.mp4](http://experiencesutra.com/wp-content/uploads/2017/09/VID_20170911.mp4)
+&nbsp;
+&nbsp;
+
+{{< youtube p3cNdKguIDk >}}
+
+&nbsp;
+&nbsp;
+
 
 The first insight maps to a personalised apparel recommendation function. Powered by state-of-the-art Artificial Intelligence and Computer Vision, it can identify what kind of an apparel you are looking for and shows similar recommendations. It does require some cues, though. Show it something that you have already picked up. Say, a round-necked t-shirt or maybe a checked shirt, a Kurta, a floral top. Show it something hanging from a hanger or something you are currently wearing (if you so desire). It will pour open the store inventory in front of you. Now, you can simply crawl through or swipe to select whatever items you like. Once shortlisted those items will be carried to a designated trial room for you to try.
 
@@ -33,26 +36,3 @@ The second insight maps to a playful entertainment function. Powered by a NLP 
 The whole Mirror experience is seamless and users can interact with it via a voice interface or via a tablet.
 
 So, we may conclude by saying, the mirror is much more than just another décor.
-
-[Featured ![DBS chilli paneer 2](http://experiencesutra.com/wp-content/uploads/2016/01/Chilli-Paneer-790x500-397x310_c.jpg)   PROJECTS **DBS chilli paneer 2**](http://experiencesutra.com/projects/dbs-chilli-paneer-2/) 
-
-[Featured ![The Mirror Reimagined_ – A Smart Shopping Assistant for the Retail](http://experiencesutra.com/wp-content/uploads/2018/05/Mirror_StoryBoard_02MAY181-397x310_c.jpg)   PROJECTS **The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail**](http://experiencesutra.com/projects/the-mirror-reimagined_-a-smart-shopping-assistant-for-the-retail/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
