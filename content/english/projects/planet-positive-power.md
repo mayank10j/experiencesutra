@@ -1,24 +1,13 @@
-Planet Positive Power | EXPERIENCESUTRA                          Planet Positive Power | EXPERIENCESUTRA                                   
+---
+title: "Planet Positive Power"
+date: 2019-06-03T12:52:36+06:00
+image_webp: uploads/2018/01/createAR.jpg
+image: uploads/2019/06/createAR.jpg
+author: 
+description : ""
+---
 
 *   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   Planet Positive Power
 
 Articles
 --------
