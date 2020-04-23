@@ -1,8 +1,8 @@
 ---
 title: "Torch – Let us unhide the stories"
 date: 2017-12-01T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2017/12/Screen-Shot-2017-12-01-at-3.36.11-PM-385x258_c.png
+image: uploads/2017/12/Screen-Shot-2017-12-01-at-3.36.11-PM-385x258_c.png
 author: 
 description : ""
 ---
@@ -16,5 +16,7 @@ Coming to Kepler’s showcase at GIDS – we used the Torch as a metaphor to hig
 There were four different stories projected on the wall – all about how individuals have dedicated their knowledge and capabilities for the better of society in the most simple and innovative ways. Using the torch beam as a pointer, we proceed to the next screen by diving into any one of the hotspots. Here, multiple hotspots revealed an audio visual to the viewer and after exploring all of them, a beautiful story comes to the fore. We had amazing response from the audience as well and they were able to figure out and interact with the installation on their own without any guidance, a great validation for an intuitive interface.
 
 Along with the Torch installation, we also showcased our own ‘Good’ initiative – Touche. The award winning Refreshable Braille Display, as always, caught the eye of many aspiring technologists, as much as it impressed some of the big names from the industry.
+
+{{< vimeo 219510971 >}}
 
 Kepler’s presence at GIDS was a great exposure for the entire team as it gave us an opportunity to interact with individuals who turned into entrepreneurs and garage start-ups that grew into full-fledged global operations. All this and an unending array of Q&As with the thousands of curious techies at the event made our participation at GIDS2017 a worthwhile experience.

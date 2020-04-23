@@ -1,8 +1,8 @@
 ---
 title: "Planet Positive Power"
 date: 2017-10-25T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2017/10/3-385x258_c.jpeg
+image: uploads/2017/10/3-1920x600_c.jpeg
 author: 
 description : ""
 ---
@@ -11,7 +11,7 @@ One of the biggest global concerns of the modern day world is Climate Change and
 
 In the 3rd week of September 2017, team Kepler attended the Renewable Energy India Expo (REI2017) – Asia’s largest renewable energy convention. The event, held at Greater NOIDA’s India Expo Centre, served as a platform for some of the giants from the renewable energy sector across the continent of Asia.
 
-[![Global Experiences](http://experiencesutra.com/wp-content/uploads/2017/10/WhatsApp-Image-2017-10-25-at-07.45.33.jpeg)](http://experiencesutra.com/wp-content/uploads/2017/10/WhatsApp-Image-2017-10-25-at-07.45.33.jpeg)
+![Global Experiences]({{< baseurl >}}uploads/2017/10/WhatsApp-Image-2017-10-25-at-07.45.33.jpeg)
 
 Global Experiences
 
@@ -19,18 +19,14 @@ One of the attractions of the event was our interactive installation done for He
 
 The front end of the experience of was driven by the unity game engine and the inputs were based on 2 separate interactions. One was a touch based input which was responsible for rotating the solar cell panels and the second was the photon particle release which was triggered using Computer Vision with the help of an IR camera.
 
-[![Mr Rahul Munjal - MD (Hero Future Energies)](http://experiencesutra.com/wp-content/uploads/2017/10/1.jpg)](http://experiencesutra.com/wp-content/uploads/2017/10/1.jpg)
+![Mr Rahul Munjal - MD (Hero Future Energies)]({{< baseurl >}}uploads/2017/10/1.jpg)
 
 Mr Rahul Munjal – MD (Hero Future Energies)
 
-[![Team Kepler at REI2017](http://experiencesutra.com/wp-content/uploads/2017/10/2.jpeg)](http://experiencesutra.com/wp-content/uploads/2017/10/2.jpeg)
+![Team Kepler at REI2017]({{< baseurl >}}uploads/2017/10/2.jpeg)
 
 Team Kepler at REI2017
 
 The wall was experienced by the MD of HFE, Mr Rahul Munjal ; their CEO, Mr Jain and a few current and ex-ministers of the energy sector. Being present at the REI event was a heartening experience – to be amidst thousands of common and influential people, both, who are striving hard to fight the monsters that are destroying our environment and making sure that we have a cleaner and a safer world to look forward to. The important part is, that we all learn and work towards it to the best of our capacity.
 
 > _“An experience that encapsulates the #green future with technology!” – HFE via Twitter_
-
-### Related tags to article
-
-[computer vision](http://experiencesutra.com/tag/computer-vision/)[gaming](http://experiencesutra.com/tag/gaming/)[unity](http://experiencesutra.com/tag/unity/)
