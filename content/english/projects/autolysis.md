@@ -1,7 +1,7 @@
 ---
 title: "Autolysis"
 date: 2016-06-15T12:52:36+06:00
-image_webp: uploads/2016/06/Autolysis.jpg
+image_webp: uploads/2016/06/Autolysis-385x258_c.jpg
 image: uploads/2016/06/Autolysis.jpg
 author: 
 description : ""
