@@ -68,17 +68,17 @@ team:
           link : "#"
     
     # team member loop
-    # - name : Parul Bansal
-    #   image_webp : images/team/Parul.webp
-    #   image : images/team/Parul.jpg
-    #   designation : Manager
-    #   content : Parul is  the AR/VR developer. She has experience in C#, SQL Server, Unity Game Engine.
-    #   social :
-    #     - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-    #       link : "#"
-    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-    #       link : "#"
-    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #       link : "#"
-    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-    #       link : "#"
+    - name : Parul Bansal
+      image_webp : images/team/Parul.webp
+      image : images/team/Parul.png
+      designation : Manager
+      content :  Parul is an Augmented Reality, Virtual Reality and Mixed Reality expert at Kepler Lab(R&D wing) at Publicis. Sapient, India. Currently, she is working on exploring new opportunities on how can feature from different XR frameworks can be used to get even better experiences.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
