@@ -3,18 +3,18 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : We are a curious bunch of  creative technologist band together in an innovation lab called kepler at Publicis.Sapient. Experience sutra is a journal of our work and experiments. The focus of kepler is to explore and experiment emerging technologies to identify new mediums for story-driven experiences. The best way to understand and explore the future of experience and interface is to share ideas and knowledge. If you have questions or you think we can help you in your project, please feel free to drop us a note.
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Kepler186f, Sapient, Tower A, Building 2, Unitech Infospace, Sector 21, Gurgaon"
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: +880-31-000-000"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: keplerwaasi@gmail.com"
