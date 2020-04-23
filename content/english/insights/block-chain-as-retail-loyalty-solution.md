@@ -1,32 +1,14 @@
-Block-chain as Retail loyalty Solution | EXPERIENCESUTRA                         Block-chain as Retail loyalty Solution | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Block-chain as Retail loyalty Solution
-
-Articles
---------
+---
+title: "Block-chain as Retail loyalty Solution"
+date: 2018-02-12T12:52:36+06:00
+image_webp: uploads/2018/02/Blockchain_Illustration_2-269x180_c.jpg
+image: uploads/2018/02/Blockchain_Illustration_2-269x180_c.jpg
+author: Mayank Jain
+description : "Loyalty programs are Marketing strategy used by the brand to make customer stick to their platform/product. This blog proposes a novel loyalty platform built on top of blockchain technology to be used by brands"
+---
 
 Block-chain as Retail loyalty Solution
 --------------------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 Loyalty programs are Marketing strategy used by the brand to make customer stick to their platform/product. This blog proposes a novel loyalty platform built on top of blockchain technology to be used by brands. We will start with an introduction to blockchain technology and in various sections try to answer following questions.
 
@@ -97,26 +79,3 @@ an strong fit for application in customer loyalty solution.
 4. GDPR for software developers. [https://www.infoq.com/articles/gdpr-for-software-devs](https://www.infoq.com/articles/gdpr-for-software-devs), accessed: 2017-12-30
 
 5. Nakamoto, S.: Bitcoin: A peer-to-peer electronic cash system (2008)
-
-[Featured ![Affordable experiences](http://experiencesutra.com/wp-content/uploads/2015/04/IMG_0866-397x310_c.jpg)   INSIGHTS **Affordable experiences**](http://experiencesutra.com/insights/creating-affordable-experiences/) 
-
-[Featured ![The Nano-book](http://experiencesutra.com/wp-content/uploads/2015/05/1-397x310_c.png)   INSIGHTS **The Nano-book**  by Meenakshi Jauhari Chawla  •](http://experiencesutra.com/insights/the-nano-book-notes-from-the-future/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

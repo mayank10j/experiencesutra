@@ -1,8 +1,8 @@
 ---
 title: "Mirror Reimagined @ The Fifth Elephant"
 date: 2018-08-09T12:52:36+06:00
-image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image_webp: uploads/2018/08/10-385x258.jpg
+image: uploads/2018/08/10-1920x600_c.jpg
 author: 
 description : ""
 ---
@@ -11,13 +11,13 @@ Inventory visibility directly connects to the number of sales. And this is the r
 
 Kepler took the Reimagined Shopping Assistant a.k.a IMI to India’s best conference on big data and machine learning – The Fifth Elephant,2018. The Fifth Elephant is India’s most sought after platform where renowned practitioners share their experiences in building data driven products, the practices adopted, the challenges faced, and speak about other recent advancements in the data science domain with fellow data scientists, data engineers, analysts, and decision makers.
 
-[![Crowds throng the kepler Installation](http://experiencesutra.com/wp-content/uploads/2018/08/9-1024x576.jpg)](http://experiencesutra.com/wp-content/uploads/2018/08/9.jpg)
+![Crowds throng the kepler Installation]({{< baseurl >}}uploads/2018/08/9-1024x576.jpg)
 
 Crowd at the Sapient IMI exhibit
 
 After a successful showcase at GIDS2018, the mirror received a great response at the Fifth Elephant, more so, as all attendees who experienced the mirror had a background in Data Sciences and Machine Learning, and hence, were able to understand and converse better regarding the nuances of the experience. Our team was able to generate extremely interesting insights which have also fueled internal discussions regarding the next steps in the development for IMI. The Sapient booth was thronged with a sea of people and it was heartening for us to see such a great reception and appreciation of all our efforts. This was also the second instance for us to showcase the cross-recommendation engine incorporated into IMI very recently and served to be an excellent platform for user testing and validation of the end-to-end journey.
 
-[![People testing user journey and giving feedback.](http://experiencesutra.com/wp-content/uploads/2018/08/8.jpg)](http://experiencesutra.com/wp-content/uploads/2018/08/8.jpg)
+![People testing user journey and giving feedback.]({{< baseurl >}}uploads/2018/08/8.jpg)
 
 User Testing and feedback
 
