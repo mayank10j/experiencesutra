@@ -32,26 +32,3 @@ The installation is based on a simple thought – “Bring my drawings to life�
 We also set targets for ourselves. Take for e.g. I took a challenge to learn a new language and create a usable Demo in 2 months. But my procrastinating mind pushes and I end up doing nothing by end of 2 months, also backing up with an excuse of being busy with office work. But what if, I can use the same **“Play, Experiment, ReImagine”** and then I end up creating some cool stuff in no time, like it happened in the case of above installations.
 
 In the end my message to everyone is that **“Keep asking questions, Keep Tinkering, Experimenting and Reimagine the solutions”.**
-
-[Featured ![DBS chilli paneer 2](http://experiencesutra.com/wp-content/uploads/2016/01/Chilli-Paneer-790x500-397x310_c.jpg)   PROJECTS **DBS chilli paneer 2**](http://experiencesutra.com/projects/dbs-chilli-paneer-2/) 
-
-[Featured ![The New Store Assistant – Mirror](http://experiencesutra.com/wp-content/uploads/2017/09/mirror_installation-397x310_c.jpeg)   PROJECTS **The New Store Assistant – Mirror**](http://experiencesutra.com/projects/the-interactive-mirror/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

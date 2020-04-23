@@ -24,26 +24,3 @@ Other part of the event was conference. From CMOs and Head of Digital to Product
 > “Service experience can be monetized. The whole service model, in fact, can be a market differentiator. Disruption is pervasive.” Saurabh Das – SapientRazorfish
 > 
 > “We need disruption in the media and that will come through with content. Use tools but don’t forget what news business is. Don’t over depend on technology.” Arnab Goswami – Republic TV
-
-[Featured ![The Mirror Reimagined_ – A Smart Shopping Assistant for the Retail](http://experiencesutra.com/wp-content/uploads/2018/05/Mirror_StoryBoard_02MAY181-397x310_c.jpg)   PROJECTS **The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail**](http://experiencesutra.com/projects/the-mirror-reimagined_-a-smart-shopping-assistant-for-the-retail/) 
-
-[Featured ![Play Reimagine_ Technology can bring Art to Life](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-397x310_c.png)   PROJECTS **Play Reimagine\_ Technology can bring Art to Life**](http://experiencesutra.com/projects/play-reimagine_/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

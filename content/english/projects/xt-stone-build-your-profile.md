@@ -29,26 +29,3 @@ XT stone epitomizes wonderful amalgamation of physical and digital world. The fr
 [![XT Stone BEhind](http://experiencesutra.com/wp-content/uploads/2015/06/XT-Stone-BEhind.jpeg)](http://experiencesutra.com/wp-content/uploads/2015/06/XT-Stone-BEhind.jpeg)
 
 What is your Profile!!
-
-[Featured ![Planet Positive Power](http://experiencesutra.com/wp-content/uploads/2017/10/3-397x310_c.jpeg)   PROJECTS **Planet Positive Power**](http://experiencesutra.com/projects/planet-positive-power/) 
-
-[Featured ![Play Reimagine_ Technology can bring Art to Life](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-397x310_c.png)   PROJECTS **Play Reimagine\_ Technology can bring Art to Life**](http://experiencesutra.com/projects/play-reimagine_/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

@@ -36,26 +36,3 @@ The wall was experienced by the MD of HFE, Mr Rahul Munjal ; their CEO, Mr Jain 
 ### Related tags to article
 
 [computer vision](http://experiencesutra.com/tag/computer-vision/)[gaming](http://experiencesutra.com/tag/gaming/)[unity](http://experiencesutra.com/tag/unity/)
-
-[Featured ![Kepler Team @ Zee MELT](http://experiencesutra.com/wp-content/uploads/2017/06/DBJ3mvoUMAAervs-397x310_c.jpg)   PROJECTS **Kepler Team @ Zee MELT**](http://experiencesutra.com/projects/kepler-team-zee-melt/) 
-
-[Featured ![Mirror Reimagined @ The Fifth Elephant](http://experiencesutra.com/wp-content/uploads/2018/08/10-397x310_c.jpg)   PROJECTS **Mirror Reimagined @ The Fifth Elephant**](http://experiencesutra.com/projects/mirror-reimagined-the-fifth-elephant/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

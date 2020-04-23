@@ -20,26 +20,3 @@ There were four different stories projected on the wall – all about how indivi
 Along with the Torch installation, we also showcased our own ‘Good’ initiative – Touche. The award winning Refreshable Braille Display, as always, caught the eye of many aspiring technologists, as much as it impressed some of the big names from the industry.
 
 Kepler’s presence at GIDS was a great exposure for the entire team as it gave us an opportunity to interact with individuals who turned into entrepreneurs and garage start-ups that grew into full-fledged global operations. All this and an unending array of Q&As with the thousands of curious techies at the event made our participation at GIDS2017 a worthwhile experience.
-
-[Featured ![Play Reimagine_ Technology can bring Art to Life](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-397x310_c.png)   PROJECTS **Play Reimagine\_ Technology can bring Art to Life**](http://experiencesutra.com/projects/play-reimagine_/) 
-
-[Featured ![Neural Creativity](http://experiencesutra.com/wp-content/uploads/2016/11/21-397x310_c.jpg)   PROJECTS **Neural Creativity**](http://experiencesutra.com/projects/neural-creativity/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

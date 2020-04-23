@@ -28,26 +28,3 @@ The Interactive Mirror is a shopping assistant with the capabilities of a recomm
 [![Screen Shot 2018-08-06 at 12.57.31 PM](http://experiencesutra.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-06-at-12.57.31-PM-1024x731.png)](http://experiencesutra.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-06-at-12.57.31-PM.png)  [![IMG-20180722-WA0000](http://experiencesutra.com/wp-content/uploads/2018/08/IMG-20180722-WA0000-768x1024.jpg)](http://experiencesutra.com/wp-content/uploads/2018/08/IMG-20180722-WA0000.jpg)
 
 For the first time, the event was open to external guests and candidates and the level of interest exceeded our expectations. Overall CMTOu was a rich experience, for both external as well as intenal guests. From our perspective, CMTOu 2018 was a brilliant platform to interact with brilliant minds and exchanging thoughts on seeing around corners and reimagining the future.
-
-[Featured ![Interactive wall of stories](http://experiencesutra.com/wp-content/uploads/2016/05/KDy2015-397x310_c.png)   PROJECTS **Interactive wall of stories**](http://experiencesutra.com/projects/wallofstories/) 
-
-[Featured ![XT Stone – Build Your Profile](http://experiencesutra.com/wp-content/uploads/2015/06/11174213_994235813927899_8400303142619527239_o-397x310_c.jpg)   PROJECTS **XT Stone – Build Your Profile**](http://experiencesutra.com/projects/xt-stone-build-your-profile/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
