@@ -1032,6 +1032,7 @@ a:hover {
 .member-photo {
   overflow: hidden;
   position: relative;
+  height: 250px;
 }
 
 @media (max-width: 768px) {
@@ -1095,6 +1096,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  height: 350px;
 }
 
 .member-meta h4 {
