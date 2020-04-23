@@ -1,16 +1,15 @@
 ---
 title: "Chorus – A Music Jamming Experience"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
+image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
 image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
-author: John Doe
-description : "This is meta description"
+author: 
+description : ""
 ---
 
 
 Augmented Reality is considered to be the future of experience. AR provides an immersive experience into a land of imaginations that otherwise would not have been possible to experience. Thus, whenever the term Augmented Reality appears in a newsprint or any other media, this technology has often been compared with the Holodeck of Star Trek. And rightfully so.
 
-[![Data_and_Riker_leaving_the_holodeck-antique](/uploads/2018/09/Data_and_Riker_leaving_the_holodeck-antique.jpg)
 
 Collaboration, remote control, and remote assistance are some of the key elements we wanted to showcase using an AR application. We built Chorus, an AR music jamming application to present the capabilities and explore the challenges of building an AR application. Chorus, as the name suggests, can be used by multiple people simultaneously to create music out of some very unusual instruments.
 
