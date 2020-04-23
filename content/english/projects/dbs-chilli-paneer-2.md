@@ -11,7 +11,7 @@ A story lived is better than a story told. Today consumers need a new kind of en
 
 It is a honor to win a Silver Digital Abby Award for DBS Bank’s interactive film Chilli Paneer 2 at Goafest 2015, held on 9-11 April. This is an exciting win after last year, where the film was awarded the Digital Campaign of the Year in 2014 by NDTV All About Ads.
 
-![Chillipaneer]({{< baseurl >}}uploads/2016/01/Chillipaneer-1024x48_400x190.png)
+![Chillipaneer]({{< baseurl >}}uploads/2016/01/Chillipaneer-1024x487_800*400.png)
 
 Chilli Paneer was a successful DBS Bank campaign featuring a short film about two young entrepreneurs finding love and pursuing their dreams together.Shot from the point of view of one of the characters and featuring eight separate endings, the team’s interactive Chilli Paneer sequel put the viewer in the driver’s seat, heightening their emotional investment. Each of the endings corresponded to a user’s personality type and led to one of eight social communities that drove conversation among entrepreneurs.
 
