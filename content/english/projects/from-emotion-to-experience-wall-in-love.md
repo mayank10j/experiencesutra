@@ -1,7 +1,7 @@
 ---
 title: "From Emotion to Experience – Wall in Love"
 date: 2016-01-03T12:52:36+06:00
-image_webp: uploads/2016/01/Screen-Shot-2016-01-06-at-7.43.37-PM-732x476_c.png
+image_webp: uploads/2016/01/Screen-Shot-2016-01-06-at-7.43.37-PM-385x258_c.png
 image: uploads/2016/01/Screen-Shot-2016-01-06-at-7.43.37-PM-732x476_c.png
 author: 
 description : ""
