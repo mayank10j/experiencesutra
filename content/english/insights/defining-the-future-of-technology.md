@@ -1,36 +1,18 @@
-Defining the future of technology | EXPERIENCESUTRA                         Defining the future of technology | EXPERIENCESUTRA                                  
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Defining the future of technology
-
-Articles
---------
+---
+title: "Defining the future of technology"
+date: 2015-01-09T12:52:36+06:00
+image_webp: uploads/2015/01/shutterstock_198885266-640x480_c.jpg
+image: uploads/2015/01/shutterstock_198885266-640x480_c.jpg
+author: Mayank Jain
+description : "What is the future of technology? A lot is being written on how the new future may look like and how soon that will dawn upon us. Some say that it is about reaching the target of 2billion internet users by 2020. Some say it is about more wearable devices and intelligent systems like IBM’s Watson."
+---
 
 Defining the future of technology
 ---------------------------------
 
-[INSIGHTS](http://experiencesutra.com/category/insights/)
-
 As a technologist, I am always urged to answer this question – What is the future of technology? A lot is being written on how the new future may look like and how soon that will dawn upon us. Some say that it is about reaching the target of 2billion internet users by 2020. Some say it is about more wearable devices and intelligent systems like IBM’s Watson.
 
-[![1](http://experiencesutra.com/wp-content/uploads/2015/01/1-300x225.gif)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/1.gif)
+![IBM Watson]({{< baseurl >}}uploads/2015/01/1-300x225.gif)
 
 “To me, the future of technology lies is enabling experience. You and your surroundings will be the platform through which that experience is delivered.”
 
@@ -66,26 +48,3 @@ Think about a day when a marketer could directly plant messages through a neural
 As a technologist, my vision is to impact the lives of millions of people and create experiences that are unique and endearing. It is not about technology alone. It depends on our ability to envisage the changing patterns of human experience.
 
 Deriving the intangible from the tangible needs a mindset. You will be part of the change if you have a mindset that appreciates the trivial and draws inspiration from the usual, natural and the mundane.
-
-[Featured ![If computer could hear us](http://experiencesutra.com/wp-content/uploads/2015/07/shutterstock_72339190-397x310_c.jpg)   INSIGHTS **If computer could hear us**](http://experiencesutra.com/insights/if-computer-can-hear-us-1/) 
-
-[Featured ![The Nano-book](http://experiencesutra.com/wp-content/uploads/2015/05/1-397x310_c.png)   INSIGHTS **The Nano-book**  by Meenakshi Jauhari Chawla  •](http://experiencesutra.com/insights/the-nano-book-notes-from-the-future/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

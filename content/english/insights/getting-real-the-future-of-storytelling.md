@@ -1,32 +1,14 @@
-Getting Real – The future of storytelling | EXPERIENCESUTRA                         Getting Real – The future of storytelling | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Getting Real – The future of storytelling
-
-Articles
---------
+---
+title: "Everyone needs to be a story teller"
+date: 2015-06-18T12:52:36+06:00
+image_webp: uploads/2015/06/shutterstock_129557375-385x258_c.jpg
+image: uploads/2015/06/shutterstock_129557375-385x258_c.jpg
+author: Alok Kumar
+description : "‘ How would you feel if you could experience the world with ‘another person’s eyes?’"
+---
 
 Getting Real – The future of storytelling
 -----------------------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
 
 Imagine this: How would you feel if you could experience the world with ‘another person’s eyes?’ Suppose you are reading a biography of an influential person, like Alexander Graham Bell, and by using augmented reality or location aware apps, you could get a sense of how Mr. Bell looks at your mobile phone.
 
@@ -50,7 +32,7 @@ Wow. Isn’t that something?
 
 In the above case, content creators have two tasks cut out for them. One is to have all the relevant information about the itinerary, the audience preferences (café or gelato), best places around, how to get there, some local facts and how to ask for it in Italian. The second task entails tying these bits of information with a single thread to provide a more unified, seamless and real experience.
 
-[![shutterstock_188015603](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_188015603-1024x731.jpg)](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_188015603.jpg)
+![Shutterstock]({{< baseurl >}}uploads/2015/06/shutterstock_188015603_385.jpg)
 
 The ‘getting real’ of the content can lead to increased immersive, interactive, integrative and impactful content experiences and drive more engagement than ever before.
 
@@ -80,7 +62,7 @@ Content creators have the opportunity to use current events as themes for the st
 
 As the web becomes more interactive and real-time, audiences will want increased control over their individual content experiences, one that would allow them to alter a storyline or manipulate plot events.
 
-[![shutterstock_113509975](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_113509975-1024x1024.jpg)](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_113509975.jpg)
+[![shutterstock_113509975]({{< baseurl >}}uploads/2015/06/shutterstock_113509975_385x258.jpg)
 
 For instance, what if the Game of Thrones TV show had a separate production for web consumption where storytelling decisions came from the community! The audience could influence or become the character themselves, alter the storyline, then compare it to the book or the show on TV. How awesome would that be?
 
@@ -90,7 +72,7 @@ Content creators must craft narratives with enough leeway to allow the audience 
 
 We always identify with our favorite characters’ specific challenges and aspirations but that is usually from a distance. What if the audience could have more personal and fluid character encounters— one where he/she seeks advice, explains a complex relationship or even confides in them?  This character will then become a friend with whom they share an emotional bond.
 
-[![shutterstock_266667704](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_266667704-1024x666.jpg)](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_266667704.jpg)
+[![shutterstock_266667704]({{< baseurl >}}uploads/2015/06/shutterstock_266667704_385x258.jpg)
 
 Content creators have the opportunity to level up on the character-audience relationship.  They can make the characters more compelling by making them more human and more relatable. The audience loves to delve deeper into the minds of our favorite characters and want to establish a relationship with them. Building a strong, relatable character, one with whom they have an emotional bond can have a great impact on creating brand awareness, influencing purchase decisions and encouraging positive action.
 
@@ -107,26 +89,3 @@ Content creators must strive to create an ‘always-on’ content experience. Th
 Imagination is everything. Since it doesn’t cost a dime to imagine, content creators and storytellers can never shortchange themselves when they stretch their imagination!
 
 The future of storytelling is all about making it ‘real’ for the audience. Content will play an important role to weave these ‘real’ experiences by replacing lackluster information with compelling narratives.  Technology, undoubtedly, will become a great enabler of these next-gen narratives to create enhanced content and brand experiences. How else do you imagine Mr. Bell peering at your mobile phone?
-
-[Featured ![Time to look beyond screens](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_157963835-Converted-397x310_c.jpg)   INSIGHTS **Time to look beyond screens**  by Ravi Pal  •](http://experiencesutra.com/insights/time-to-look-beyond-screens/) 
-
-[Featured ![If computer could hear us](http://experiencesutra.com/wp-content/uploads/2015/07/shutterstock_72339190-397x310_c.jpg)   INSIGHTS **If computer could hear us**](http://experiencesutra.com/insights/if-computer-can-hear-us-1/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
