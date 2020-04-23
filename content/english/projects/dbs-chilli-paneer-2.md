@@ -2,7 +2,7 @@
 title: "DBS chilli paneer 2"
 date: 2019-06-03T12:52:36+06:00
 image_webp: uploads/2018/01/createAR.jpg
-image: uploads/2019/06/createAR.jpg
+image: uploads/2016/01/Chilli-Paneer-790x500-1920x600_c.jpg
 author: 
 description : ""
 ---
