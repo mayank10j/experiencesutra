@@ -1,32 +1,16 @@
-Deep Learning in Fashion | EXPERIENCESUTRA                         Deep Learning in Fashion | EXPERIENCESUTRA                                   
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   Deep Learning in Fashion
-
-Articles
---------
+---
+title: "Deep Learning in Fashion"
+date: 2017-11-01T12:52:36+06:00
+image_webp: uploads/2017/11/traditional-vs-transfer-learning.png
+image: uploads/2017/11/traditional-vs-transfer-learning.png
+author: 
+description : ""
+---
 
 Deep Learning in Fashion
 ------------------------
 
-[EXPERIMENTS](http://experiencesutra.com/category/experiments/)
 
 Recommendation engines are crucial for the fashion e-commerce business. Showing relevant items from the inventory has proven to be a sales booster. For fashion, building a recommendation engine involves multiple tasks. One such task is to appropriately tag clothing items. When you shop on a website the recommendation engine would try to find items similar to whatever you have selected based on tags. These tags can specify multiple things, i.e., type, color, texture. The intent of this experiment was to automate the tagging process using machine learning. To be specific, we are identifying the type (i.e., shirt, top), pattern (i.e., checked, stripped), and color palette from clothing images.
 
@@ -44,6 +28,8 @@ To address these limitations, researchers have come up with a newer technique fo
 In traditional machine learning, we train a model A with data and labels for a particular task or domain A. On another occasion, for a task or domain B we again require labeled data to train model B. For example, a model trained on images of cats and dogs will fail to detect pedestrians.
 
 Transfer Learning allows us to store and use the knowledge gained in one task or domain A in some other related task or domain B. We achieve it by storing the weights of model A and initializing model B with the stored weights before training. The major advantage is that transfer learning allows us to train a deep learning model with relatively fewer data.
+
+![traditional-vs-transfer-learning](/static/uploads/2017/11/traditional-vs-transfer-learning.png)
 
 [![traditional-vs-transfer-learning](http://experiencesutra.com/wp-content/uploads/2017/11/traditional-vs-transfer-learning.png)](http://experiencesutra.com/wp-content/uploads/2017/11/traditional-vs-transfer-learning.png)
 
@@ -67,25 +53,3 @@ Our final output can be seen in the following image.
 2.  [http://www.image-net.org/challenges/LSVRC/](http://www.image-net.org/challenges/LSVRC/)
 3.  [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)
 
-[Featured ![ZooYou](http://experiencesutra.com/wp-content/uploads/2015/12/Zooyou-397x310_c.png)   EXPERIMENTS **ZooYou**](http://experiencesutra.com/experiments/zooyou/) 
-
-[Featured ![Project Chameleon](http://experiencesutra.com/wp-content/uploads/2017/06/default-397x310_c.png)   EXPERIMENTS **Project Chameleon**](http://experiencesutra.com/experiments/project-chameleon/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
