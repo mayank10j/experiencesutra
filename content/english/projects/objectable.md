@@ -1,7 +1,7 @@
 ---
 title: "Objectable in Bangaluru maker faire"
 date: 2015-12-15T12:52:36+06:00
-image_webp: uploads/2015/04/IMG_0866.jpg
+image_webp: uploads/2015/04/IMG_0866-385x258_c.jpg
 image: uploads/2015/04/IMG_0866.jpg
 author: 
 description : ""
