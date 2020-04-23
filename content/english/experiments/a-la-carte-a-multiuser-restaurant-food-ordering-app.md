@@ -9,7 +9,7 @@ description : ""
 
 Half of the times, when we go to a restaurant, the names in the menu are confusing enough for us to take a decision. To add on to that we are not sure about the quantity of the food we are ordering. Many a times it happens that we end up ordering food which we don’t like or much more quantity then intended, leading to wastage of food and a bad user experience. Can something be done?
 
-![A la carte](uploads/2018/12/la-carte-e1544091695722-397x310_c.png)
+![A la carte]({{< baseurl >}}uploads/2018/12/la-carte-e1544091695722-397x310_c.png)
 
 À la carte is the rescuer – the solution to our restaurant dine in problems.
 
