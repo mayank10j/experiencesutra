@@ -24,22 +24,3 @@ The wall turned out to be show stopper at the event. Audience were pleasantly su
 The wall was inaugurated by honourable India IT minister and I will quote him – “Who has made this” :). We also had the pleasure and honour to have Portuguese minister and Indian minister for state at our installation.
 
 The vision of Digital India programme is inclusive growth in areas of electronic services, products, manufacturing and job opportunities etc. Digital duniya installation ensured that the vision and its impact were well understood by the audience.
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

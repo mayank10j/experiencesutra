@@ -26,26 +26,3 @@ User Testing and feedback
 To know more about the mirror, visit [http://experiencesutra.com/projects/the-mirror-reimagined\_-a-smart-shopping-assistant-for-the-retail/](http://experiencesutra.com/projects/the-mirror-reimagined_-a-smart-shopping-assistant-for-the-retail/)
 
 Summing up our experience at The Fifth Elephant, the journey turned out to be a hit for us, as with the crowds, as it packaged together a fun user journey, some great conversations and a useful proposition for a smart future – everything that Kepler stands for. A great opportunity to interact with hundreds of brilliant minds, insightful interactions and all in all, tonnes of fun!
-
-[Featured ![Planet Positive Power](http://experiencesutra.com/wp-content/uploads/2017/10/3-397x310_c.jpeg)   PROJECTS **Planet Positive Power**](http://experiencesutra.com/projects/planet-positive-power/) 
-
-[Featured ![DBS chilli paneer 2](http://experiencesutra.com/wp-content/uploads/2016/01/Chilli-Paneer-790x500-397x310_c.jpg)   PROJECTS **DBS chilli paneer 2**](http://experiencesutra.com/projects/dbs-chilli-paneer-2/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

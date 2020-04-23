@@ -38,26 +38,3 @@ Summing up the GIDS experience, Kepler was extremely successful in conveying the
 ### Related tags to article
 
 [GIDS](http://experiencesutra.com/tag/gids/)[PLAY](http://experiencesutra.com/tag/play/)
-
-[Featured ![Planet Positive Power](http://experiencesutra.com/wp-content/uploads/2017/10/3-397x310_c.jpeg)   PROJECTS **Planet Positive Power**](http://experiencesutra.com/projects/planet-positive-power/) 
-
-[Featured ![The Mirror Reimagined_ – A Smart Shopping Assistant for the Retail](http://experiencesutra.com/wp-content/uploads/2018/05/Mirror_StoryBoard_02MAY181-397x310_c.jpg)   PROJECTS **The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail**](http://experiencesutra.com/projects/the-mirror-reimagined_-a-smart-shopping-assistant-for-the-retail/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

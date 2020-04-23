@@ -16,26 +16,3 @@ With enabling potential as one of the core values, we at Sapient innovation lab 
 With the use of raw magnetometer, gyroscope and accelerator sensors in the phone, we mapped the trajectory of the swing to the inside VR experience The data was aggregated, cleansed and processed to ensure that the VR inside experience is never out of sync with the actual swing movement, which reduced motion sickness to a great length.
 
 Displayed at the Troublemakers campaign Press Launch, the Swing allured a lot of people present there. The Swing lets one experience that feeling of taking a leap of faith and breaking the box. There is a pool of endless opportunities to explore, if one swings out of his comfort zone by pushing a little harder and be a troublemaker. And that’s what we aim at!
-
-[Featured ![XT Stone – Build Your Profile](http://experiencesutra.com/wp-content/uploads/2015/06/11174213_994235813927899_8400303142619527239_o-397x310_c.jpg)   PROJECTS **XT Stone – Build Your Profile**](http://experiencesutra.com/projects/xt-stone-build-your-profile/) 
-
-[Featured ![Autolysis](http://experiencesutra.com/wp-content/uploads/2016/06/Autolysis-397x310_c.jpg)   PROJECTS **Autolysis**](http://experiencesutra.com/projects/autolysis/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**2**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

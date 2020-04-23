@@ -21,26 +21,3 @@ To make buying an engaging experience, our team used Web AR as the medium to buy
 Special thing about the experience was the enrichment of the objects around the user, no AR markers were handed to the users, on the other hand, objects like the COASTERS in the bars had the markers i.e.”Patron logo” printed on them. Enrichment of objects, such as the COASTERS in this example, is not new. However, today people have to decide to start some dedicated app in order to see such enrichment, which immediately puts barriers in the way. We identified this and instead proposed a Web AR.
 
 The application was planned to test the waters, in terms of how users react to the new medium of exploring the tequila bottle in the bars and events set up.
-
-[Featured ![Play Reimagined @ GIDS2018](http://experiencesutra.com/wp-content/uploads/2018/05/11-397x310_c.jpg)   PROJECTS **Play Reimagined @ GIDS2018**](http://experiencesutra.com/projects/play-reimagined-gids2018/) 
-
-[Featured ![Neural Creativity](http://experiencesutra.com/wp-content/uploads/2016/11/21-397x310_c.jpg)   PROJECTS **Neural Creativity**](http://experiencesutra.com/projects/neural-creativity/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
