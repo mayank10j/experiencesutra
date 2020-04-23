@@ -29,9 +29,13 @@ In traditional machine learning, we train a model A with data and labels for a p
 
 Transfer Learning allows us to store and use the knowledge gained in one task or domain A in some other related task or domain B. We achieve it by storing the weights of model A and initializing model B with the stored weights before training. The major advantage is that transfer learning allows us to train a deep learning model with relatively fewer data.
 
-![traditional-vs-transfer-learning](/static/uploads/2017/11/traditional-vs-transfer-learning.png)
+&nbsp;
+&nbsp;
 
-[![traditional-vs-transfer-learning](http://experiencesutra.com/wp-content/uploads/2017/11/traditional-vs-transfer-learning.png)](http://experiencesutra.com/wp-content/uploads/2017/11/traditional-vs-transfer-learning.png)
+![traditional learning vs transfer learning]({{< baseurl >}}uploads/2017/11/traditional-vs-transfer-learning.png)
+
+&nbsp;
+&nbsp;
 
 ### Training Deep Learning Models on Clothing Images
 
@@ -45,9 +49,16 @@ We used the CIE LAB color space and grouped every pixel within a particular regi
 
 Our final output can be seen in the following image.
 
-[![final-output](http://experiencesutra.com/wp-content/uploads/2017/11/vastram.png)](http://experiencesutra.com/wp-content/uploads/2017/11/vastram.png)
+&nbsp;
+&nbsp;
 
-#### References
+![vastram final output]({{< baseurl >}}uploads/2017/11/vastram.png)
+
+&nbsp;
+&nbsp;
+
+### References
+
 
 1.  [http://cs231n.github.io/transfer-learning/](http://cs231n.github.io/transfer-learning/)
 2.  [http://www.image-net.org/challenges/LSVRC/](http://www.image-net.org/challenges/LSVRC/)

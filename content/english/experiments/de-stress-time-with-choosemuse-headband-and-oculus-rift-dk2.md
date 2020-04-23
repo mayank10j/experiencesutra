@@ -20,7 +20,8 @@ The virtual landscape gives you a soothing effect and slowly calms your mind. So
 
 “De-Stress Time” uses Muse headband (The Brain sensing Device)  to measure your brainwaves and oculus rift DK2 to show both the former restless state of mind and the latter relaxed state of mind. Muse is the first tool in the world that gives you accurate, real-time feedback on what’s happening in your brain when you meditate, whereas Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds.
 
-<img src="/uploads/2017/08/brainwavefrequencies_v2crop1-397x310_c.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+
+![brain wave frequencies]({{< baseurl >}}uploads/2017/08/brainwavefrequencies_v2crop1-397x310_c.png)
+
 
 The user can get the realtime feedback of the brain activity via Muse in a virtual experience using the Oculus Rift and the user can calm the mind following the visuals in the VR.

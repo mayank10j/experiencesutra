@@ -1,40 +1,17 @@
-Dinner Tonight – AR app for recipe recommendation | EXPERIENCESUTRA                         Dinner Tonight – AR app for recipe recommendation | EXPERIENCESUTRA                                   
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   Dinner Tonight – AR app for recipe recommendation
-
-Articles
---------
-
-Dinner Tonight – AR app for recipe recommendation
--------------------------------------------------
-
-[EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-
-  
+---
+title: "Dinner Tonight – AR app for recipe recommendation"
+date: 2018-03-01T12:52:36+06:00
+image_webp: uploads/2018/03/IMG_20180315_162150-397x310_c.jpg
+image: uploads/2018/03/IMG_20180315_162150-397x310_c.jpg
+author: 
+description : ""
+---
   
   
 Figuring out what to cook quickly for today’s dinner is one of the terrifying questions we face every day. With countless hours spent figuring out what to cook today that could have spent instead of binge-watching Netflix or figuring out how awesome you can become.
 
-[![WhatsForDinnerOhMyGod](http://experiencesutra.com/wp-content/uploads/2018/03/WhatsForDinnerOhMyGod.gif)](http://experiencesutra.com/wp-content/uploads/2018/03/WhatsForDinnerOhMyGod.gif)[  
-](http://experiencesutra.com/wp-content/uploads/2018/03/WhatsForDinnerOhMyGod.gif)
+<iframe src="https://giphy.com/embed/6ul9g1rMhfLH2" width="480" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baby-really-oh-6ul9g1rMhfLH2">via GIPHY</a></p>
 
 So to solve this problem for once we set out on the quest to develop a Mobile phone App which is filled with Awesomeness of  Augmented reality and Artificial intelligence.
 
@@ -57,27 +34,11 @@ Technology wise this prototype uses iPhone AR,  core M, and vision features t
 
 We believe that actions speak louder than words hence instead of theorizing we have made a prototype of our idea. Here is a screen recording of the app in action.
 
-[http://experiencesutra.com/wp-content/uploads/2018/02/Tonight\_Dinner.mp4](http://experiencesutra.com/wp-content/uploads/2018/02/Tonight_Dinner.mp4)
 
-[Featured ![CreateAR – when, AR and AI meet](http://experiencesutra.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-02-at-10.36.09-AM-397x310_c.png)   PROJECTS **CreateAR – when, AR and AI meet**](http://experiencesutra.com/experiments/createar-when-ar-and-ai-meet/) 
+&nbsp;
+&nbsp;
 
-[Featured ![Pataka – A VR app for celebrating a Healthy and Clean Diwali](http://experiencesutra.com/wp-content/uploads/2017/11/Detail-4-397x310_c.png)   EXPERIMENTS **Pataka – A VR app for celebrating a Healthy and Clean Diwali**](http://experiencesutra.com/experiments/pataka-a-vr-app-for-celebrating-a-healthy-and-clean-diwali/) 
+{{< youtube 1SAnx1_HhKg >}}
 
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
+&nbsp;
+&nbsp;
