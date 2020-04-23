@@ -1,32 +1,14 @@
-Time to look beyond screens | EXPERIENCESUTRA                         Time to look beyond screens | EXPERIENCESUTRA                                  
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Time to look beyond screens
-
-Articles
---------
+---
+title: "Time to look beyond screens"
+date: 2015-01-13T12:52:36+06:00
+image_webp: uploads/2015/01/shutterstock_157963835-Converted-385x258_c.jpg
+image: uploads/2015/01/shutterstock_157963835-Converted-385x258_c.jpg
+author: Ravi Pal
+description : "As a technologist, I have always been fascinated by the subject of Human-Machine interfaces. I believe technology is as good as its application in real world."
+---
 
 Time to look beyond screens
 ---------------------------
-
-[Ravi Pal](http://experiencesutra.com/author/rpal/ "Posts by Ravi Pal") [INSIGHTS](http://experiencesutra.com/category/insights/)
 
 As a technologist, I have always been fascinated by the subject of Human-Machine interfaces. I believe technology is as good as its application in real world. One of the greatest aspirations of experience technologist is to build human centric experiences. I advocate for a need to look beyond our fixation with Screen Only experiences to achieve that goal.
 
@@ -68,11 +50,11 @@ As we get into “Internet of Things” era, every day objects would get smarter
 
 An umbrella with an integrated ambient light is a natural way of alerting consumers about the possibility of rain.
 
-[![screenshot-3](http://experiencesutra.com/wp-content/uploads/2015/01/screenshot-3.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/screenshot-3.png)
+![screenshot-3]({{< baseurl >}}uploads/2015/01/screenshot-3_385x258.png)
 
 It would be much more natural for a [pill bottle to remind you](www.vitality.net) about taking your medicine on time.
 
-[![screenshot-4](http://experiencesutra.com/wp-content/uploads/2015/01/screenshot-4.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/screenshot-4.png)
+![screenshot-4]({{< baseurl >}}uploads/2015/01/screenshot-4_385x258.png)
 
 **More wearables:**
 
@@ -80,45 +62,14 @@ Future of experience technology platforms would be lot close to YOU, you and I w
 
 Here is a [smart t-shirt](www.omsignals.com) that keeps heart rate check, acts as a pedometer, keeps track of your activities and also provides you feedback when its time for you to exercise.
 
-[![e29cb2a7-79b9-4c70-b357-f9ad72ea1f8e](http://experiencesutra.com/wp-content/uploads/2015/01/e29cb2a7-79b9-4c70-b357-f9ad72ea1f8e.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/e29cb2a7-79b9-4c70-b357-f9ad72ea1f8e.png)
+![e29cb2a7-79b9-4c70-b357-f9ad72ea1f8e]({{< baseurl >}}uploads/2015/01/e29cb2a7-79b9-4c70-b357-f9ad72ea1f8e_385x258.png)
 
 **A framework to consider:**
 
 As David Rose (researcher at MIT Medialabs) writes in his book – Enchanted objects (www.enchantedobjects.com) is a possible way to build experiences that don’t have a bias for Screen only experiences. He goes on to talk about a framework to build human centric experiences by advocating for a seven attributes Enchanted Objects (picture below).
 
-[![screenshot-5](http://experiencesutra.com/wp-content/uploads/2015/01/screenshot-5.png)](http://keplerwaasi.com/experiencesutra/wp-content/uploads/2015/01/screenshot-5.png)
+![screenshot-5]({{< baseurl >}}uploads/2015/01/screenshot-5_1_385x258.png)
 
 **Conclusion:**
 
 Screens are going no where and would continue to be a key channel for digital experiences. I believe, in near future Screens would  evolve to play a niche role in experience ecosystem.  As new consumer technologies mature and adoption picks up, Brands and Experience designers would have to rethink how we build experiences that are natural and would be part of consumers life experiences.
-
-![Ravi Pal](http://2.gravatar.com/avatar/8baf2a29e167497254e642e44382a65b?s=100&d=mm&r=g)
-
-### Ravi Pal
-
-I am the founder of Kepler Labs. I am passionate about Man-Machine relationship. I believe that positive innovations in Man-Machine interfaces would influence brand affinity with consumers in a significant way. Like you, I am interested in pushing the limits of what could be achieved given exponential evolution of affordable technology. With over seventeen years of consulting &digital transformation experience, I bring a distinctive point of view to the growing fusion of Marketing and Technology. As a Technologist and Experience Architect with expertise in both enterprise solutions and interactive experiences, I enjoy working with the best and brightest in digital consulting and marketing technology field.
-
-[View more by Ravi Pal](http://experiencesutra.com/author/rpal/)
-
-[Featured ![How Can Blockchain Help Aadhaar Ensure Privacy and Transparency?](http://experiencesutra.com/wp-content/uploads/2018/01/how_blockchain_works-397x310_c.png)   INSIGHTS **How Can Blockchain Help Aadhaar Ensure Privacy and Transparency?**](http://experiencesutra.com/insights/how-can-blockchain-help-aadhaar-ensure-privacy-and-transparency/) 
-
-[Featured ![Getting Real – The future of storytelling](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_129557375-397x310_c.jpg)   INSIGHTS **Getting Real – The future of storytelling**](http://experiencesutra.com/insights/getting-real-the-future-of-storytelling/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")

@@ -1,34 +1,18 @@
-Innovation Lab – Your Idea Factory | EXPERIENCESUTRA                         Innovation Lab – Your Idea Factory | EXPERIENCESUTRA                                  
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   Innovation Lab – Your Idea Factory
-
-Articles
---------
+---
+title: "Innovation Lab – Your Idea Factory"
+date: 2015-01-17T12:52:36+06:00
+image_webp: uploads/2015/01/05-269x180_c.jpg
+image: uploads/2015/01/05-269x180_c.jpg
+author: Harry Samson
+description : "In today’s fast changing world where technology is democratizing and leveling the playing field in every business, how would you beat competition?"
+---
 
 Innovation Lab – Your Idea Factory
 ----------------------------------
 
-[INSIGHTS](http://experiencesutra.com/category/insights/)
+In today’s fast changing world where technology is democratizing and leveling the playing field in every business, how would you beat competition? In the context of an agency how would you meet the expectation of marketers who are looking for innovative or killer ideas ?
 
-In today’s fast changing world where technology is democratizing and leveling the playing field in every business, how would you beat competition? In the context of an agency how would you meet the expectation of marketers who are looking for innovative or killer ideas ? _**[![IMG_0883](http://experiencesutra.com/wp-content/uploads/2015/01/IMG_0883-1024x576.png)](http://experiencesutra.com/wp-content/uploads/2015/01/IMG_0883.png)**_ 
+![innovation]({{< baseurl >}}uploads/2015/01/IMG_0883-1024x576.png)
 
 _**“To survive today, agencies needs to build reputation.”**_
 
@@ -86,27 +70,4 @@ Running a lab incurs a cost and may not show immediate tangible benefits but ove
 
 Do you have a lab?
 
-[![11](http://experiencesutra.com/wp-content/uploads/2015/01/11-1024x642.jpg)](http://experiencesutra.com/wp-content/uploads/2015/01/11.jpg)
-
-[Featured ![Defining the future of technology](http://experiencesutra.com/wp-content/uploads/2015/01/shutterstock_198885266-397x310_c.jpg)   INSIGHTS **Defining the future of technology**](http://experiencesutra.com/insights/defining-the-future-of-technology/) 
-
-[Featured ![How To Stay Relevant In 2030](http://experiencesutra.com/wp-content/uploads/2018/08/34005906806_ae9722f4bf_o-397x310_c.jpg)   INSIGHTS **How To Stay Relevant In 2030**](http://experiencesutra.com/insights/how-to-stay-relevant-in-2030/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
+![Lab]({{< baseurl >}}uploads/2015/01/11-1024x642.jpg)
