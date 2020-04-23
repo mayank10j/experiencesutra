@@ -23,6 +23,9 @@ The immediate next question from the visitors that popped up was ‘Hey, this is
 
 The Interactive Mirror is a shopping assistant with the capabilities of a recommendation system. It classifies Men’s and Women’s clothing, recognizes apparel types and recommends similar products, suggests other items that the shopper might like and presents deals to the potential buyer. The Mirror also gives cross-recommendations and this latest feature was a winner with the stall visitors at the summit.
 
-![Screen Shot 2018]({{< baseurl >}}uploads/2018/08/Screen-Shot-2018-08-06-at-12.57.31-PM-1024x731.png)&nbsp;&nbsp;![IMG-20180722-WA0000]({{< baseurl >}}uploads/2018/08/IMG-20180722-WA0000-768x1024.jpg)
+![Screen Shot 2018]({{< baseurl >}}uploads/2018/08/Screen-Shot-2018-08-06-at-12.57.31-PM-1024x731.png)   
+&nbsp;&nbsp;
+\
+![IMG-20180722-WA0000]({{< baseurl >}}uploads/2018/08/IMG-20180722-WA0000-768x1024.jpg)
 
 For the first time, the event was open to external guests and candidates and the level of interest exceeded our expectations. Overall CMTOu was a rich experience, for both external as well as intenal guests. From our perspective, CMTOu 2018 was a brilliant platform to interact with brilliant minds and exchanging thoughts on seeing around corners and reimagining the future.
