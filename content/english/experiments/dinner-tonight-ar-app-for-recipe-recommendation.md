@@ -11,11 +11,23 @@ description : ""
   
 Figuring out what to cook quickly for today’s dinner is one of the terrifying questions we face every day. With countless hours spent figuring out what to cook today that could have spent instead of binge-watching Netflix or figuring out how awesome you can become.
 
-<iframe src="https://giphy.com/embed/6ul9g1rMhfLH2" width="480" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baby-really-oh-6ul9g1rMhfLH2">via GIPHY</a></p>
+&nbsp;
+&nbsp;
+
+![oh My God gif]({{< baseurl >}}uploads/2018/03/ohMyGod.gif)
+
+&nbsp;
+&nbsp;
 
 So to solve this problem for once we set out on the quest to develop a Mobile phone App which is filled with Awesomeness of  Augmented reality and Artificial intelligence.
 
-[![ohReallyCombined](http://experiencesutra.com/wp-content/uploads/2018/03/ohReallyCombined.gif)](http://experiencesutra.com/wp-content/uploads/2018/03/ohReallyCombined.gif)
+&nbsp;
+&nbsp;
+
+![oh Really gif]({{< baseurl >}}uploads/2018/03/ohReally.gif)
+
+&nbsp;
+&nbsp;
 
 how does our App will help you may ask?
 
