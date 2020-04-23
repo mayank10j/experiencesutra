@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 
 # baseURL = "http://localhost:2222/"
-baseURL = "https://kepler-lab.gitlab.io/experiencesutra"
+baseURL = "https://kepler-lab.gitlab.io/experiencesutra/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
