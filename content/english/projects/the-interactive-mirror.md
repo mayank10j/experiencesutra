@@ -1,32 +1,16 @@
-The New Store Assistant – Mirror | EXPERIENCESUTRA                         The New Store Assistant – Mirror | EXPERIENCESUTRA                                   
+---
+title: "The New Store Assistant – Mirror"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+author: 
+description : ""
+---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   The New Store Assistant – Mirror
-
-Articles
---------
 
 The New Store Assistant – Mirror
 --------------------------------
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
 
 The mirror is not just another décor. From “once upon a time..” till this day, the mirror attracts human imagination like no other inanimate object. Interacting, conversing with the mirror is part and parcel of human existence. The mirror is the witness of countless human emotions. The young teen rehearsing his pickup lines, the actor practicing their dialog for their first big stage performance, the little Snow White secretly applying her mother’s lipsticks for the first time, the health-obsessed gym goer admiring his muscles, the showstopper preparing herself for the party tonight, the mirror witnesses it all.
 

@@ -1,32 +1,15 @@
-Idea2Life – AI Powered Prototyping tool | EXPERIENCESUTRA                          Idea2Life – AI Powered Prototyping tool | EXPERIENCESUTRA                                  
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   Idea2Life – AI Powered Prototyping tool
-
-Articles
---------
+---
+title: "Idea2Life – AI Powered Prototyping tool"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+author: 
+description : ""
+---
 
 Idea2Life – AI Powered Prototyping tool
 ---------------------------------------
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
 
 Prototyping a web application is more about ideas than mere sketching wireframes. It is quite common to see the initial excitement around prototypes dwindling due to high prototype costing. The biggest barrier to effective prototyping is time and cost. idea2Life is an AI powered rapid prototyping to lower the barrier of prototyping.
 

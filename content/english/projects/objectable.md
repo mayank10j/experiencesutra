@@ -1,32 +1,17 @@
-Objectable in Bangaluru maker faire | EXPERIENCESUTRA                         Objectable in Bangaluru maker faire | EXPERIENCESUTRA                                   
+---
+title: "Objectable in Bangaluru maker faire"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+author: 
+description : ""
+---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   Objectable in Bangaluru maker faire
-
-Articles
---------
 
 Objectable in Bangaluru maker faire
 -----------------------------------
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
+
 
 The Maker Movement has many definitions, but all of them bring across the same of notion of empowering a person to be more than just a consumer of products. It allows for inventors, designers and tinkerers to express themselves and stresses on the fact that anyone can be a maker.
 

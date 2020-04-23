@@ -1,32 +1,16 @@
-The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail | EXPERIENCESUTRA                         The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail | EXPERIENCESUTRA                                   
+---
+title: "The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail"
+date: 2018-09-12T12:52:36+06:00
+image_webp: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+image: uploads/2018/09/IMG_20180903_153109_HDR-397x310_c.jpg
+author: 
+description : ""
+---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail
-
-Articles
---------
 
 The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail
 -------------------------------------------------------------------
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
 
 We started experimenting with the idea of a smart shopping assistant for the physical apparel stores around this time [last year](http://experiencesutra.com/projects/the-interactive-mirror/). We had envisioned the Mirror to be a personalized shopping assistant with the capabilities of a recommendation system. Recommendation systems aren’t anything that is new. In fact, smart recommendations have long transformed the world of e-business. Netflix’s recommendation engine generates [$1 billion yearly revenue](https://www.businessinsider.in/Why-Netflix-thinks-its-personalized-recommendation-engine-is-worth-1-billion-per-year/articleshow/52754724.cms). In 2012, Amazon reported 29% sales increase during their second fiscal quarter. [The success story of Amazon](http://fortune.com/2012/07/30/amazons-recommendation-secret/) was accredited to the recommendation system they had in place. Fashion e-commerce websites offer smart recommendations based on customer preference. Shopping history, wishlist items etc. indicate the customer’s likings. You’d add something to your shopping cart or to your wish list, and the mobile e-commerce app or the website would give you a list of recommendations. Your wishlist shows your intent.
 
