@@ -6,7 +6,6 @@ image: uploads/2016/01/Chilli-Paneer-790x500-1920x600_c.jpg
 author: 
 description : ""
 ---
-
 A story lived is better than a story told. Today consumers need a new kind of engagement that are immersive and playful.
 
 It is a honor to win a Silver Digital Abby Award for DBS Bank’s interactive film Chilli Paneer 2 at Goafest 2015, held on 9-11 April. This is an exciting win after last year, where the film was awarded the Digital Campaign of the Year in 2014 by NDTV All About Ads.
