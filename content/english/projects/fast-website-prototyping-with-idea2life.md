@@ -27,7 +27,7 @@ Creating a website from the layout is a 3 setup process:
 2.  The layout algorithm will use detection data to generate a layout tree for the design
 3.  The rendering engine will render nodes of the layout tree based on the configuration of individual components
 
-The global theme (.css) and also the assets used can be customised/changed based on the client requirements. Therefore it is easy to use Idea2Life across multiple businesses.
+The global theme (.css) and also the assets used can be customized/changed based on the client requirements. Therefore it is easy to use Idea2Life across multiple businesses.
 
 Prototyping well is an essential contributor to the speed of innovation efforts. Actually, the genius behind prototyping lies in the quickness of execution and exploration. Idea2Life makes prototyping and sharing blazing fast.
 
