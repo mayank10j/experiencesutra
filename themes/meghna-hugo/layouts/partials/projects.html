@@ -1,0 +1,28 @@
+{{ if gt .Site.RegularPages 0}}
+{{"<!-- Start Project Section -->" | safeHTML}}
+<section id="projects" class="section">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeInDown">
+					<h2>{{ with i18n "projectTitle" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with i18n "projectTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					<div class="border-meghna"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+			{{ range first 3 (where .Site.RegularPages "Section" "==" "projects")}}
+			{{ .Render "article"}}
+			{{ end }}
+
+			<div class="all-post text-center col-lg-12">
+				<a class="btn btn-main"
+					href="{{ `projects` | absLangURL }}">{{ i18n "viewAllProjects" }}</a>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /Project -->" | safeHTML}}
+{{ end }}

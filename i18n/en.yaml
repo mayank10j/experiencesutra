@@ -1,9 +1,21 @@
 - id: blogTitle
   translation: Latest Post
+- id: projectTitle
+  translation: Latest Projects
+- id: experimentTitle
+  translation: Latest Experiments
+- id: insightTitle
+  translation: Latest Insights
 - id: readMore
   translation: Read more
 - id: viewAllPost
   translation: View All Post
+- id: viewAllProjects
+  translation: View All Projects
+- id: viewAllExperiments
+  translation: View All Experiments
+- id: viewAllInsights
+  translation: View All Insights
 - id: share
   translation: Share
 - id: aboutAuthor
