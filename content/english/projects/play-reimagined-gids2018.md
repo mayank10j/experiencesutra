@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 We all grew up wanting to become techies, scientists, innovators, and what not! It was always a joyous, playful thought to have. Somewhere along the line, we became what we wanted to but – we lost the playful zing which we had inside. The definition of fun got constrained by methods and rules and most things started getting defined as the right and wrong way of accomplishing tasks. When was the last time we involved ourselves with a little bit of ‘PLAY’ at work?
 
 At GIDS this year, Kepler took the visitors back into a reimagined world of Play. How important is it to have fun at work? How interesting things become if we set some rules aside and just explore the world around us without any constraints of right or wrong. We showcased 3 experience where the highlight was on having fun with technology.

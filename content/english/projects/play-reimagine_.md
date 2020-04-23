@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 [![Photo Credits: Technology can bring Art to Life - sailor mercury](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1024x568.png)](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw.png)
 
 **“_Let’s Play!_”** Even in the most stressful environment, the moment we listen or read this phrase, the thoughts in our mind change completely. Suddenly, our mind relaxes and we experience feelings of fun and excitement. Research have shown that we as humans are very curious and love playing and exploring.

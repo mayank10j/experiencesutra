@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 **Patron** Tequila and **Guillermo del Toro** have teamed up to release a limited edition. This stunning gift set includes a bottle of **Patron**Extra Anejo Tequila, a smaller skull-shaped bottle of **Patron** orange liqueur in an intricate collectible box.
 
 [![Patron](http://experiencesutra.com/wp-content/uploads/2018/12/Patron-255x300.png)  

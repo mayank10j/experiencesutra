@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 Inventory visibility directly connects to the number of sales. And this is the reason recommendation systems are so successful. The more you show, the more you sell – is the mantra. But how can you have such a recommendation system for a physical setup? It has to serve the same purpose as in an e-commerce website and has to be seamless, as well. So, we envisioned a user journey. When a customer picks up some clothing item and tries to see how they would look on it in front of a mirror – by casually holding the cloth in front of them, the mirror would surprise them by showing more similar options they could purchase.
 
 Kepler took the Reimagined Shopping Assistant a.k.a IMI to India’s best conference on big data and machine learning – The Fifth Elephant,2018. The Fifth Elephant is India’s most sought after platform where renowned practitioners share their experiences in building data driven products, the practices adopted, the challenges faced, and speak about other recent advancements in the data science domain with fellow data scientists, data engineers, analysts, and decision makers.

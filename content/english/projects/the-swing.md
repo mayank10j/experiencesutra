@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 Thinking out –of – the box is a commonly used term these days. Every organization wants its people to think innovatively, step out of their comfort zone and explore more. But, in today’s fact paced environment, where everyone feels stuck and is unable to break free, how do you make people experience the feeling of breaking the box? Well that’s where technology and innovation comes into picture.
 
 With enabling potential as one of the core values, we at Sapient innovation lab believe in pushing the boundaries and go beyond. When you cross any playground or see children swinging in a park, you suddenly feel elated and happy, as it reminds of your childhood. Swinging gives a sense of freedom, a feeling of breaking free. You start slowly and then you push harder, swinging high. It’s simple physics! But, when you combine physics with technology, a simple swing can act as a machine transporting you to a different world.  And that’s exactly what we did!

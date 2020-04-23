@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 One of the biggest global concerns of the modern day world is Climate Change and its anticipated effects that include increasing global temperatures, rising sea levels, changing precipitation and the expansion of deserts in the subtropics. Some of the prime culprits in contributing to this climate change and by extension, Global Warming are the man-made pollutants which massively rise from the conventional sources of energy .
 
 In the 3rd week of September 2017, team Kepler attended the Renewable Energy India Expo (REI2017) – Asia’s largest renewable energy convention. The event, held at Greater NOIDA’s India Expo Centre, served as a platform for some of the giants from the renewable energy sector across the continent of Asia.

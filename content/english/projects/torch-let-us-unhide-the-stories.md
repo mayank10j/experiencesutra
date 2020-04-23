@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 What happens when you are in a dark room and someone hands you a torch? How does one find their way out of a dense forest after dark?
 
 One of our most recent experiments at Kepler was taken out of the lab and showcased first in April 2017. An experience called the Torch, uses an IR light source as a metaphor for uncovering stories and putting a larger picture together. This experience first saw daylight at GIDS 2017 – Asia’s largest Developer Summit.  For an IT professional wanting to learn and gather technology know-how, understand best practices and case studies, and absorb the innovation excellence of experts worldwide, in focused settings, GIDS is the place to be. With over a 100 sessions, keynotes and tutorials in Java, .NET, Mobile, DevOps (to name a few), the GIDS experience is packed with everything that a software developer, technical team lead, architects or project manager needs to determine the future. A great look into the technologies that will make the biggest impact in the coming year, both for their career as well as their business. Cross pollination, competition and collaboration are key to a thriving ecosystem and this is where vendor-neutral platforms such as GIDS play a vital role. This year, the summit was organised an umbrella of ‘Innovation for Good’.

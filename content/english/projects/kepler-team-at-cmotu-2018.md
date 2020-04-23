@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 CMTOu is a year-long program combining elements of a corporate leadership development program with the rigor, challenge and learning of an executive MBA.
 
 At CMTOu, we showcased installations which inspired the visitors to be curious and bring their imagination to life. The ideas were centered around the thought “The world needs the curious, the creative, and the courageous engineer – who inspires possibility and then brings it to life.”

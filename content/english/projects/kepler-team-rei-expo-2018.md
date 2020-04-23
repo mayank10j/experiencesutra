@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 Renewable Energy India Expo is a 3 day event held at the India Expo Centre and Mart in Greater Noida, India. This event showcases products from Solar, Wind, Bio-mass/fuel, Small Hydro, Geothermal and Energy Efficiency Sectors in the Power & Energy, Power & Renewable Energy, Solar Energy industries. REI Expo intends to accelerate the growth of India’s Renewable Energy sector and contribute to the country’s sustainable economic development. The show aims to upscale and mainstream the applications of renewable energy resources, showcase innovations, and enrich deliberations by providing the industry with an international exhibition and conference platform.
 
 [![hfe](http://experiencesutra.com/wp-content/uploads/2018/10/hfe-1024x344.png)  

@@ -7,8 +7,6 @@ author:
 description : ""
 ---
 
-[PROJECTS](http://experiencesutra.com/category/projects/)
-
 Stories are always fascinating and is considered to be the best form of communication. However they still have the problem of one sided conversation. We at kepler lab believe that story lived is better than story told. Interactive narrative have the potential of creating more immersive and playful experiences.
 
 Interactive wall of stories is an experiment to explore the possibilities of leveraging things around us to tell interactive stories. The wall was programmed to sense touch, human presence and allowed playful interactions to tell inspiring stories of people who made impossible possible.
