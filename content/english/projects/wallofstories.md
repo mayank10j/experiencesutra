@@ -1,6 +1,6 @@
 ---
 title: "Interactive wall of stories"
-date: 2019-06-03T12:52:36+06:00
+date: 2016-05-03T12:52:36+06:00
 image_webp: uploads/2016/05/KDy2015-385x258_c.png
 image: uploads/2016/05/KDy2015-1920x600_c.png
 author: 
