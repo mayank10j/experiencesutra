@@ -24,6 +24,6 @@ What are the trends and hot profiles these days?Developer can start from any of 
 
 XT stone epitomizes wonderful amalgamation of physical and digital world. The front end was a wooden capacitive touch interface to give the multi sensory experience of touch-The little roughness on the surface, Smell of polished wood; It captures user selections and emotions with sensors and computer vision, Machine learning is used to analyze the data and human emotions finally using Sound and Light as output.
 
-![XT Stone BEhind]({{< baseurl >}}uploads/2015/06/XT-Stone-BEhind.jpeg)
+![XT Stone BEhind]({{< baseurl >}}uploads/2015/06/XT-Stone-BEhind_800*450.jpeg)
 
 What is your Profile!!
