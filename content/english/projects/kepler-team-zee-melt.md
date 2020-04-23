@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Kepler Team @ Zee MELT
-----------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 When you go to technology conference, it is quite common to stumble upon terms like big data, artificial intelligence and machine learning but when you go to digital marketing conference and you hear marketing leaders talking about artificial intelligence and machine learning, one must say these technologies are really transforming the digital space in every industry.

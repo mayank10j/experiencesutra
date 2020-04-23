@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Play Reimagined @ GIDS2018
---------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 We all grew up wanting to become techies, scientists, innovators, and what not! It was always a joyous, playful thought to have. Somewhere along the line, we became what we wanted to but – we lost the playful zing which we had inside. The definition of fun got constrained by methods and rules and most things started getting defined as the right and wrong way of accomplishing tasks. When was the last time we involved ourselves with a little bit of ‘PLAY’ at work?

@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-XT Stone – Build Your Profile
------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 Around 1.5 Million engineers graduate every year in India but yet there is a high shortage of developers. It takes companies 4-5 month on an average to fill their technologist positions. Such is a dearth of right skilled developers that out of desperation companies have resorted to wrong means and landed in law suites.The problem of right skills extends to developer world as well where there is a palpable sense of loss. Most of developers struggle to identify and build right skills. The explosion and hype around certain technologies has made the situation worse. How much are you hearing about “big data” and “IOT” these dates?

@@ -7,15 +7,6 @@ author:
 description : ""
 ---
 
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Interactive wall of stories
----------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 Stories are always fascinating and is considered to be the best form of communication. However they still have the problem of one sided conversation. We at kepler lab believe that story lived is better than story told. Interactive narrative have the potential of creating more immersive and playful experiences.

@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Explore an intricate collectible tequila box using Enriching Web AR experience
-------------------------------------------------------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 **Patron** Tequila and **Guillermo del Toro** have teamed up to release a limited edition. This stunning gift set includes a bottle of **Patron**Extra Anejo Tequila, a smaller skull-shaped bottle of **Patron** orange liqueur in an intricate collectible box.

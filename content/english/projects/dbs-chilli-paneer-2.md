@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-DBS chilli paneer 2
--------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 A story lived is better than a story told. Today consumers need a new kind of engagement that are immersive and playful.

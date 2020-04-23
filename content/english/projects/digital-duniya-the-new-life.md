@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Digital duniya – The new life
------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 One will be surprised to know that Indian govt. has send out 100 crores SMS to farmers for farming related information. Now we no longer need to show our ID at airports, we can show our Id from an app called [digi locker](https://digilocker.gov.in/). There are 70 other digital initiatives being run by the govt. Unfortunately, awareness is a big problem.

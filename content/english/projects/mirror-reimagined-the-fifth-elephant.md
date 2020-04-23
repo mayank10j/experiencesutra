@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Mirror Reimagined @ The Fifth Elephant
---------------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 Inventory visibility directly connects to the number of sales. And this is the reason recommendation systems are so successful. The more you show, the more you sell – is the mantra. But how can you have such a recommendation system for a physical setup? It has to serve the same purpose as in an e-commerce website and has to be seamless, as well. So, we envisioned a user journey. When a customer picks up some clothing item and tries to see how they would look on it in front of a mirror – by casually holding the cloth in front of them, the mirror would surprise them by showing more similar options they could purchase.

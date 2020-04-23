@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Torch – Let us unhide the stories
----------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 What happens when you are in a dark room and someone hands you a torch? How does one find their way out of a dense forest after dark?

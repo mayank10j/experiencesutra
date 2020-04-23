@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-Play Reimagine\_ Technology can bring Art to Life
--------------------------------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 [![Photo Credits: Technology can bring Art to Life - sailor mercury](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw-1024x568.png)](http://experiencesutra.com/wp-content/uploads/2018/05/1_xB_z9sAFVwMt2pf3hmYuNw.png)

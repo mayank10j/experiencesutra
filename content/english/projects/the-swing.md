@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-The Swing
----------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 Thinking out –of – the box is a commonly used term these days. Every organization wants its people to think innovatively, step out of their comfort zone and explore more. But, in today’s fact paced environment, where everyone feels stuck and is unable to break free, how do you make people experience the feeling of breaking the box? Well that’s where technology and innovation comes into picture.

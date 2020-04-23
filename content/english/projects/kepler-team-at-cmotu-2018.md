@@ -7,14 +7,6 @@ author:
 description : ""
 ---
 
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-Articles
---------
-
-KEPLER Team at CMOTu 2018
--------------------------
-
 [PROJECTS](http://experiencesutra.com/category/projects/)
 
 CMTOu is a year-long program combining elements of a corporate leadership development program with the rigor, challenge and learning of an executive MBA.
