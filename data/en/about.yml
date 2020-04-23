@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We are a bunch of curious and creative technologists who band together in an innovation lab called Kepler at Publicis.Sapient India. Experience sutra is a journal of our work and experiments.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We collaborate with our clients to create working prototypes which are meant to showcase the feasibilty of an idea or experiment. We open source some of our work as well for the community.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : We're Explorers
+    content : The focus of kepler is to explore and experiment with emerging technologies to identify new mediums for story-driven experiences, and create working prototypes for the same.
