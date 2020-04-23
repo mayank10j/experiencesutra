@@ -6,7 +6,7 @@ team:
     # team member loop
     - name : Alok Kumar
       image_webp : images/team/Alok.webp
-      image : images/team/Alok.jpg
+      image : images/team/Alok.jpeg
       designation : Director
       content : Director of engineering and innovation, with extensive experience in driving cutting edge fast paced innovations to help build AI-first organisation. He is a full stack AI practitioner and a certified architect with demonstrated track record of architecting large-scale solutions.
       social :
@@ -22,7 +22,7 @@ team:
     # team member loop
     - name : Harry Samson
       image_webp : images/team/Harry.webp
-      image : images/team/Harry.jpg
+      image : images/team/Harry.png
       designation : Senior Manager
       content : Resident tinkerer at Kepler. An expert in physical computing, you can mostly find him in the lab, exploring various technologies. His passion is to enable the creation of experiences which blur the boundaries of physical and digital.
       social :
@@ -38,7 +38,7 @@ team:
     # team member loop
     - name : Mayank Jain
       image_webp : images/team/mayank.webp
-      image : images/team/mayank.jpg
+      image : images/team/mayank.jpeg
       designation : Manager
       content : AI developer in Kepler lab with expertise in and Machine Learning and Computer vision. He likes to spend most of his time working on problems involving how to make computers see and think using techniques like Deep learning, image processing, NLP etc.
       social :
@@ -63,6 +63,22 @@ team:
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/nitin-katyal-b4aa223b/"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
+    
+    # team member loop
+    # - name : Parul Bansal
+    #   image_webp : images/team/Parul.webp
+    #   image : images/team/Parul.jpg
+    #   designation : Manager
+    #   content : Parul is  the AR/VR developer. She has experience in C#, SQL Server, Unity Game Engine.
+    #   social :
+    #     - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "#"
