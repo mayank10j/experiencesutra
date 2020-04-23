@@ -1,32 +1,11 @@
-A PoV (Point of View) on PoV (Persistence of Vision) Displays | EXPERIENCESUTRA                          A PoV (Point of View) on PoV (Persistence of Vision) Displays | EXPERIENCESUTRA                                   
-
-*   [![EXPERIENCESUTRA](/wp-content/themes/tresor-theme/images/logo.png)](http://experiencesutra.com/)
-
-*   [PURPOSE](http://experiencesutra.com/purpose/)
-*   [PEOPLE](http://experiencesutra.com/people/)
-*   [SPACE](http://experiencesutra.com/gallery/space/)
-*   [ABOUT US](http://experiencesutra.com/about-us/)
-
- [Show menu](#dat-menu)
-
-*   [HOME](http://experiencesutra.com/)
-*   [PROJECTS](http://experiencesutra.com/category/projects/)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   [EXPERIMENTS](http://experiencesutra.com/category/experiments/)
-*   [SCRIBBLES](http://experiencesutra.com/category/scribbles/)
-*   [CONTACT US](http://experiencesutra.com/contact-us/)
-
-*   [Home](http://experiencesutra.com)
-*   [INSIGHTS](http://experiencesutra.com/category/insights/)
-*   A PoV (Point of View) on PoV (Persistence of Vision) Displays
-
-Articles
---------
-
-A PoV (Point of View) on PoV (Persistence of Vision) Displays
--------------------------------------------------------------
-
-[INSIGHTS](http://experiencesutra.com/category/insights/)
+---
+title: "A point of view on Persistence of Vision"
+date: 2018-06-12T12:52:36+06:00
+image_webp: uploads/2018/06/PoV-Sample-640x480_c.png
+image: uploads/2018/06/PoV-Sample-640x480_c.png
+author: Harry Samson
+description : "Persistence of Vision (PoV) displays have all become the rage these days, with many calling/marketing them holographic displays"
+---
 
 Introduction
 ============
@@ -100,30 +79,3 @@ Recommendation
 *   To consider such displays, one needs a well defined contextual use case for it to make sense.
 *   Real-time display is difficult to implement due to the operating principle.
 *   Not to be treated as a screen replacement.
-
-### Related tags to article
-
-[pov](http://experiencesutra.com/tag/pov/)
-
-[Featured ![How To Stay Relevant In 2030](http://experiencesutra.com/wp-content/uploads/2018/08/34005906806_ae9722f4bf_o-397x310_c.jpg)   INSIGHTS **How To Stay Relevant In 2030**](http://experiencesutra.com/insights/how-to-stay-relevant-in-2030/) 
-
-[Featured ![Getting Real – The future of storytelling](http://experiencesutra.com/wp-content/uploads/2015/06/shutterstock_129557375-397x310_c.jpg)   INSIGHTS **Getting Real – The future of storytelling**](http://experiencesutra.com/insights/getting-real-the-future-of-storytelling/) 
-
-[Tweets by @keplervaani](https://twitter.com/twitterdev)
-
-Socialize
----------
-
-[**0**_Shares_](http://www.facebook.com/sharer/sharer.php?u=http://experiencesutra.com) [**0**_Tweets_](#) [**0**_+1's_](https://plus.google.com/share?url=http://experiencesutra.com) [**0**_Shares_](http://www.linkedin.com/shareArticle?mini=true&url=http://experiencesutra.com&title=EXPERIENCESUTRA+-+Humanizing+Technology)
-
-EXPERIENCESUTRA
----------------
-
-Humanizing technology  
-© 2016 - Kepler186f
-
-[Close Window](#)
-
-### Loading, Please Wait!
-
-This may take a second or two. ![Loading, Please Wait!](http://experiencesutra.com/wp-content/themes/tresor-theme/images/loading.gif "Loading, Please Wait!")
