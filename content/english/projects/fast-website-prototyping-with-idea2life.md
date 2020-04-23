@@ -1,7 +1,7 @@
 ---
 title: "Idea2Life – AI Powered Prototyping tool"
 date: 2019-05-28T12:52:36+06:00
-image_webp: uploads/2019/05/idea2life_hero_image.png
+image_webp: uploads/2019/05/idea2life_385x258.png
 image: uploads/2019/05/idea2life_hero_image.png
 author: 
 description : ""
