@@ -58,17 +58,31 @@ To use in our Color comparison based apparel recommendation system we iterate ov
 
 Here are the results using 4-bit color space as histogram bins:
 
+&nbsp;
+&nbsp;
+
 ![img00003_4bit]({{< baseurl >}}uploads/2018/06/img00003_4bit-1024x341.jpeg)
 
 ![img00008_4bit]({{< baseurl >}}uploads/2018/06/img00008_4bit-1024x341.jpeg)
 
+&nbsp;
+&nbsp;
+
 Quite an improvements, right?  but still on analyzing results from our test images we found that there are still failure cases where we did not have a good match. Like this:-
 
+&nbsp;
+&nbsp;
 ![img00090_4bit]({{< baseurl >}}uploads/2018/06/img00090_4bit-1024x341.jpeg)
+&nbsp;
+&nbsp;
 
 We found that the number of different colors present in 4-bit color space is very low and this was costing us lots of mismatches. So we ended up adding more colors to our histogram pallet. In the end, we ended up with around 56 distinct popular colors. Here are some of the results from 56 colors pallet histogram matching.
 
+&nbsp;
+&nbsp;
 ![img00008]({{< baseurl >}}uploads/2018/06/img00008-1024x341.jpeg) ![img00090]({{< baseurl >}}uploads/2018/06/img00090-1024x341.jpeg) ![img00003]({{< baseurl >}}uploads/2018/06/img00003-1024x341.jpeg)
+&nbsp;
+&nbsp;
 
 This looks as good result. We rerun our tests on hundreds of images and compared results of all three approaches ( CNN features, 16 color pallet Dominant color histogram and 56 color pallet dominant color histogram method ) and ended up picking 56 colors dominant histogram approach as the winner as this turned out to be best performing with most accurate recommendations.
 
