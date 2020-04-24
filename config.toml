@@ -92,27 +92,27 @@ preloader = "images/logo_es.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/profile.php?id=100004771516412"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/keplervaani"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCefu70dGOr6j23caFy-BzSw/"
+
+#[[params.social]]
+#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/keplerlab/"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 
 ################################ English Language ########################
