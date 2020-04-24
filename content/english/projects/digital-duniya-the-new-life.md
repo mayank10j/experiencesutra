@@ -2,7 +2,7 @@
 title: "Digital duniya – The new life"
 date: 2017-05-03T12:52:36+06:00
 image_webp: uploads/2017/05/image001-385x258_c.png
-image: uploads/2017/05/image001-300x225.png
+image: uploads/2017/05/image001-397x310_c.png
 author: 
 description : ""
 ---
@@ -11,8 +11,8 @@ One will be surprised to know that Indian govt. has send out 100 crores SMS to 
 
 [ICEGOV](http://www.icegov.org/) is an international event to promote electronic governance. This year ICEGOV was held in new Delhi India between 7-9 march. We were asked to come up with a creative idea to help delegates understand Indian govt. digital initiatives.
 
-![image001]({{< baseurl >}}uploads/2017/05/image001-300x225.png)
-
+<!-- ![image001]({{< baseurl >}}uploads/2017/05/image001-300x225.png)
+ -->
 We decided to create a wall of stories – How the life of Indian rural family has changed due to various digital initiatives. The interactions on the wall were made with computer vision and sensors. We used projection mapping technique to make the wall look grand.
 
 The wall turned out to be show stopper at the event. Audience were pleasantly surprised to know about so many good digital initiatives in a playful manner.
