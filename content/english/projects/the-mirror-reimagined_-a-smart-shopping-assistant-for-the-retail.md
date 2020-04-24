@@ -1,7 +1,7 @@
 ---
 title: "The Mirror Reimagined\_ – A Smart Shopping Assistant for the Retail"
 date: 2018-05-02T12:52:36+06:00
-image_webp: uploads/2018/05/Mirror_StoryBoard_02MAY181.jpg
+image_webp: uploads/2018/05/Mirror_StoryBoard_02MAY181-385x258_c.jpg
 image: uploads/2018/05/Mirror_StoryBoard_02MAY181.jpg
 author: 
 description : ""

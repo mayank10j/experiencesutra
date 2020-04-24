@@ -1,7 +1,7 @@
 ---
 title: "The New Store Assistant – Mirror"
 date: 2017-09-05T12:52:36+06:00
-image_webp: uploads/2017/09/mirror_installation.jpeg
+image_webp: uploads/2017/09/mirror_installation-385x258_c.jpeg
 image: uploads/2017/09/mirror_installation.jpeg
 author: 
 description : ""
