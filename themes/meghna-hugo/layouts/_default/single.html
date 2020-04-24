@@ -14,12 +14,14 @@
         <img class="img-fluid mb-50" src="{{ .Params.Image | absURL }}" alt="blog-image">
       </div>
       <div class="col-lg-8 offset-lg-2">
-        <div class="post-single-content">
-          {{ .Content }}
-        </div>
         {{ if .Site.Params.post_share }}
         {{ partial "post-share.html" . }}
         {{ end }}
+
+        <div class="post-single-content" style="margin-top:5%">
+          {{ .Content }}
+        </div>
+        
         <!-- comments -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}
