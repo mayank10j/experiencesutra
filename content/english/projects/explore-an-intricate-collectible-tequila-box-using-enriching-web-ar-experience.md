@@ -9,8 +9,11 @@ description : ""
 
 **Patron** Tequila and **Guillermo del Toro** have teamed up to release a limited edition. This stunning gift set includes a bottle of **Patron**Extra Anejo Tequila, a smaller skull-shaped bottle of **Patron** orange liqueur in an intricate collectible box.
 
-[![Patron](http://experiencesutra.com/wp-content/uploads/2018/12/Patron-255x300.png)  
-](http://experiencesutra.com/wp-content/uploads/2018/12/Patron-e1544087460871.png)For Patron, its ultimately about engagement and entertainment. The aim was to showcase this limited-edition box intricately illustrated with dark images that reflect Guillermo del Toro’s take on Mexican culture.
+![Patron]({{< baseurl >}}uploads/2018/12/Patron-255x300.png)
+&nbsp;
+&nbsp;
+   
+For Patron, its ultimately about engagement and entertainment. The aim was to showcase this limited-edition box intricately illustrated with dark images that reflect Guillermo del Toro’s take on Mexican culture.
 
 To make buying an engaging experience, our team used Web AR as the medium to buy the Tequila. The user could tap and interact with various components of the limited edition set on their mobile browsers in augmented reality and then click the buy button for final purchase.
 

@@ -1,7 +1,7 @@
 ---
 title: "Planet Positive Power"
 date: 2017-10-25T12:52:36+06:00
-image_webp: uploads/2017/10/3-385x258_c.jpeg
+image_webp: uploads/2017/10/3-<385x258_c class="jpeg"></385x258_c>
 image: uploads/2017/10/3-1920x600_c.jpeg
 author: 
 description : ""
