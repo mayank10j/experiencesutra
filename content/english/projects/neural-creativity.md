@@ -1,7 +1,7 @@
 ---
 title: "Neural Creativity"
 date: 2016-11-10T12:52:36+06:00
-image_webp: uploads/2016/11/03.jpg
+image_webp: uploads/2016/11/03_385x258.jpg
 image: uploads/2016/11/03.jpg
 author: 
 description : ""
