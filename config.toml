@@ -83,6 +83,8 @@ author = "Themefisher"
 google_analitycs_id = "" # Your ID
 # post share
 post_share = true
+# has list view (the name should match)
+listviewpages = ["Projects", "Experiments", "Insights"]
 
 # preloader
 [params.preloader]
