@@ -1220,10 +1220,12 @@ a:hover {
 .post-block {
   background-color: #292F36;
   margin-bottom: 10px;
+  position: relative;
 }
 
 .post-block .content {
   padding: 20px;
+  height: 300px;
 }
 
 .post-block .content h3 {
@@ -1232,6 +1234,12 @@ a:hover {
   line-height: 1.5;
   text-transform: capitalize;
 }
+
+.post-block .content .read-more-btn {
+  position: absolute;
+  bottom: 3%;
+}
+
 
 .note .media-wrapper {
   border-bottom: 1px solid #4e595f;
