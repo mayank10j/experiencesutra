@@ -5,6 +5,7 @@ image_webp: uploads/2018/01/createAR.jpg
 image: uploads/2019/06/createAR.jpg
 author: 
 description : ""
+summary: "Patron Tequila and Guillermo del Toro have teamed up to release a limited edition. To make buying an engaging experience, our team used Web AR as the medium to buy the Tequila."
 ---
 
 **Patron** Tequila and **Guillermo del Toro** have teamed up to release a limited edition. This stunning gift set includes a bottle of **Patron**Extra Anejo Tequila, a smaller skull-shaped bottle of **Patron** orange liqueur in an intricate collectible box.
