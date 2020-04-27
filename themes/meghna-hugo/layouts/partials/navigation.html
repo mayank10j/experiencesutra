@@ -20,7 +20,8 @@
 
 					{{ range .Site.Menus.main }}
 					{{ if in $listviewpages .Name }}
-					<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}/{{ .URL }}">{{ .Name }}</a>
+
+					<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}{{ .URL }}">{{ .Name }}</a>
 					</li>
 					{{ else }}
 					<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ .Name }}</a>
@@ -28,11 +29,6 @@
 					{{ end }}
 					{{ end }}
 					
-
-					{{ range .Site.Menus.static }}
-					<li class="nav-item"><a class="nav-link" target="_blank" href="{{ .URL }}">{{ .Name }}</a>
-					</li>
-					{{ end }}
 					
 				</ul>
 				<!-- Language List -->
