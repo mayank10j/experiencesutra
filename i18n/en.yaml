@@ -27,4 +27,6 @@
 - id: all
   translation: All
 - id: copyright
-  translation: copyright &copy; 2020 Kepler Lab - Publicis.Sapient all right reserved
+  translation: copyright &copy; 2020 Kepler Lab, all right reserved
+- id: credits
+  translation: Powered by - Meghna Hugo
