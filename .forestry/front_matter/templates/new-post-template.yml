@@ -21,5 +21,4 @@ fields:
   name: description
   label: description
 pages:
-- content/english/projects/blog-title.md
 - content/english/projects/new-blog-here.md
