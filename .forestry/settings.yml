@@ -13,7 +13,7 @@ upload_dir: static/images
 public_path: "/images"
 front_matter_path: "/images"
 use_front_matter_path: true
-file_template: ":year:/:month:/filename:/:filename:"
+file_template: ":year:/:month:/:filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
