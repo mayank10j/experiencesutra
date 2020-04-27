@@ -1,5 +1,5 @@
 ---
-label: Test project
+label: New post template
 hide_body: false
 fields:
 - type: text
@@ -20,5 +20,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- content/english/projects/test-new-project.md
