@@ -2,7 +2,7 @@
 title: "Explore an intricate collectible tequila box using Enriching Web AR experience"
 date: 2018-12-03T12:52:36+06:00
 image_webp: uploads/2018/12/patron.png
-image: uploads/2019/06/patron.png
+image: uploads/2018/12/patron.png
 author: 
 description : ""
 summary: "Patron Tequila and Guillermo del Toro have teamed up to release a limited edition. To make buying an engaging experience, our team used Web AR as the medium to buy the Tequila."
@@ -10,9 +10,6 @@ summary: "Patron Tequila and Guillermo del Toro have teamed up to release a limi
 
 **Patron** Tequila and **Guillermo del Toro** have teamed up to release a limited edition. This stunning gift set includes a bottle of **Patron**Extra Anejo Tequila, a smaller skull-shaped bottle of **Patron** orange liqueur in an intricate collectible box.
 
-![Patron]({{< baseurl >}}uploads/2018/12/Patron-255x300.png)
-&nbsp;
-&nbsp;
    
 For Patron, its ultimately about engagement and entertainment. The aim was to showcase this limited-edition box intricately illustrated with dark images that reflect Guillermo del Toro’s take on Mexican culture.
 
