@@ -5,6 +5,6 @@ description = ""
 draft = true
 image = ""
 image_webp = ""
-title = "new blog"
+title = "new blog here"
 
 +++
