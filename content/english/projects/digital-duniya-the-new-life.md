@@ -11,8 +11,7 @@ One will be surprised to know that Indian govt. has send out 100 crores SMS to 
 
 [ICEGOV](http://www.icegov.org/) is an international event to promote electronic governance. This year ICEGOV was held in new Delhi India between 7-9 march. We were asked to come up with a creative idea to help delegates understand Indian govt. digital initiatives.
 
-<!-- ![image001]({{< baseurl >}}uploads/2017/05/image001-300x225.png)
- -->
+
 We decided to create a wall of stories – How the life of Indian rural family has changed due to various digital initiatives. The interactions on the wall were made with computer vision and sensors. We used projection mapping technique to make the wall look grand.
 
 The wall turned out to be show stopper at the event. Audience were pleasantly surprised to know about so many good digital initiatives in a playful manner.
@@ -23,9 +22,6 @@ The wall turned out to be show stopper at the event. Audience were pleasantly su
 &nbsp;
 &nbsp;
 
-![image002]({{< baseurl >}}uploads/2017/05/image002-300x225.png)
-&nbsp;
-&nbsp;
    
 The wall was inaugurated by honourable India IT minister and I will quote him – “Who has made this” :). We also had the pleasure and honour to have Portuguese minister and Indian minister for state at our installation.
 
