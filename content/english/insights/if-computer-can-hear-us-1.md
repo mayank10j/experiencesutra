@@ -32,7 +32,14 @@ Powered by [Wolfram Alpha](http://https//www.wolframalpha.com/), the the computa
 
 Supreme Being demonstrate of how can we make interaction simple, interesting and engaging using voice or sound. Supreme Being can be used in multiple scenarios to encourage learning and knowledge gathering. It is no brainer to see it useful for playful learning in schools, Information kiosk in conferences and Hospitality industries.
 
-[http://experiencesutra.com/wp-content/uploads/2015/05/Supreme-Being.mp4](http://experiencesutra.com/wp-content/uploads/2015/05/Supreme-Being.mp4)
+&nbsp;
+&nbsp;
+
+{{< youtube YMSxFIkjlLg >}}
+
+&nbsp;
+&nbsp;
+
 
 Music from http://bensound.com
 
@@ -46,6 +53,14 @@ Attached to the shelf are LED strips and inexpensive light sensors which capture
 
 In our quest to create intelligent environment, we used simple components which are inexpensive and easily available around us. For example, the sense of smell is powered by recoding programmable air fresheners which is easily available in the store next door.
 
-[http://experiencesutra.com/wp-content/uploads/2015/05/shelfieCompressed.mp4](http://experiencesutra.com/wp-content/uploads/2015/05/shelfieCompressed.mp4)
+
+&nbsp;
+&nbsp;
+
+{{< youtube 6PAKWUbYPng >}}
+
+&nbsp;
+&nbsp;
+
 
 If the future of experience is natural then there is no doubt that voice is going to control a significant part of experience in human computer interaction.
