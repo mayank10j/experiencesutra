@@ -75,7 +75,7 @@ weight = 6
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo_es.png"
+logo = "images/logo_es_white.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
@@ -89,7 +89,7 @@ listviewpages = ["Projects", "Experiments", "Insights"]
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo_es.png"
+preloader = "images/logo_es_white.png"
 
 ############################# social icons ##########################
 [[params.social]]
