@@ -2,10 +2,10 @@
 title: Genus - An open source Sketch plugin to export HTML
 date: 2020-06-08T06:21:12.000+00:00
 author:
-image_webp: uploads/2020/06/genus-hero-banner.webp
+image_webp: uploads/2020/06/genus-hero-banner_webp.png
 image: uploads/2020/06/genus-hero-banner.png
 description: This post talks about how to use Genus, a Sketch plugin which exports artboards into HTML.
-draft: true
+draft: false
 ---
 # Genus - An open source plugin to convert Sketch to HTML
 Many a times, there is a need to quickly prototype web pages. It is easy for designers to flesh them out in vector based UX toolkits like [Sketch](https://www.sketch.com/), [Adobe XD](https://www.adobe.com/in/products/xd.html), [Figma](https://www.figma.com/) and the likes. And it really helps if we can directly export a design from a design tool into HTML, to accelerate the process.
@@ -26,23 +26,29 @@ There are other plugins available offering similar functionality  which are paid
 
 ## How to use Genus
 1. Open your design made in Sketch (Alternatively, we have provided a test Sketch file in the zip file under testing>sketch>genus-test-cases.sketch).
-![Open Sketch design]({{< baseurl >}}uploads/2020/06/01-open-design-in-sketch.png)
-![Open Sketch design](./uploads/2020/06/01-open-design-in-sketch.png) [Remove this when deployed on Hugo]
+
+    ![Open Sketch design]({{< baseurl >}}uploads/2020/06/01-open-design-in-sketch.png)
+
 1. Select the artboard(s) you want to export as HTML.
-![Select artboard]({{< baseurl >}}uploads/2020/06/02-select-artboard-to-export.png)
-![Select artboard](./uploads/2020/06/02-select-artboard-to-export.png) [Remove this when deployed on Hugo]
+
+    ![Select artboard]({{< baseurl >}}uploads/2020/06/02-select-artboard-to-export.png)
+
 1. Go to the menu bar, Plugins>Genus>Export.
-![Go to Genus export]({{< baseurl >}}uploads/2020/06/03-go-to-genus-export.png)
-![Go to Genus export](./uploads/2020/06/03-go-to-genus-export.png) [Remove this when deployed on Hugo]
+
+    ![Go to Genus export]({{< baseurl >}}uploads/2020/06/03-go-to-genus-export.png)
+
 1. After processing, the HTML and associated assets are exported to the same location as the Sketch file. The path is also mentioned in the dialog box.
-![Exported HTML at Sketch location]({{< baseurl >}}uploads/2020/06/04-html-exported-in-sketch-location.png)
-![Exported HTML at Sketch location](./uploads/2020/06/04-html-exported-in-sketch-location.png) [Remove this when deployed on Hugo]
+
+    ![Exported HTML at Sketch location]({{< baseurl >}}uploads/2020/06/04-html-exported-in-sketch-location.png)
+
 1. Once exported, you can go the exported location and you will find folder(s) named after the name of your artboards(s) selected for export.
-![Go to export location]({{< baseurl >}}uploads/2020/06/06-go-to-exported-location.png)
-![Go to export location](./uploads/2020/06/05-go-to-exported-location.png) [Remove this when deployed on Hugo]
+
+    ![Go to export location]({{< baseurl >}}uploads/2020/06/06-go-to-exported-location.png)
+
 1. Open a folder and open index.html to see the result in your browser.
-![Open html in browser]({{< baseurl >}}uploads/2020/06/06-open-index_html-to-see-result.png)
-![Open html in browser](./uploads/2020/06/01-open-design-in-sketch.png) [Remove this when deployed on Hugo]
+
+    ![Open html in browser]({{< baseurl >}}uploads/2020/06/06-open-index_html-to-see-result.png)
+
 
 ## Tips for creating Sketch designs which can be helpful to create logical HTML output
 1. Naming each layer logically can greatly help in inspecting the generated HTML and trace back problems.
@@ -52,6 +58,6 @@ There are other plugins available offering similar functionality  which are paid
 ## Troubleshooting exported HTML
 1. If there are any missing fonts notification which comes up on the top right of the Sketch application, please install them.
 1. In case fonts are not rendered properly in the browser, you might want to import the fonts in CSS. This can be done by: 
-    1. Adding Google fonts as per required like the following statement ```@import url('https://fonts.googleapis.com/css?family=Roboto:500,900|PT+Serif:400|Open+Sans:400');``` (this is for the fonts used in genus-test-cases.sketch sample file).
+    1. Adding Google fonts as per required like the following statement `@import url('https://fonts.googleapis.com/css?family=Roboto:500,900|PT+Serif:400|Open+Sans:400');` (this is for the fonts used in genus-test-cases.sketch sample file).
     1. Copying font files to a font folder and importing them can also make it work.
 1. In some rare cases font weight rendered by html and sketch could be different. In those cases you might want to check correct font weight from sketch file and plugin into css. 
