@@ -1,6 +1,6 @@
 ---
 title: Genus - An open source Sketch plugin to export HTML
-date: 2020-06-08T06:21:12.000+00:00
+date: 2020-06-07T06:21:12.000+00:00
 author:
 image_webp: uploads/2020/06/genus-hero-banner_webp.png
 image: uploads/2020/06/genus-hero-banner.png
