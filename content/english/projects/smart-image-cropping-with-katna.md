@@ -51,7 +51,7 @@ Run the setup
 ```
 python setup.py install
 ```
-# How to use katna image module
+## How to use katna image module
 
 Import the video module from the katna library
 ```
@@ -116,11 +116,16 @@ crop_list = img_module.crop_image(
 4. filters
 5. down_sample_factor
 
-# How katna image module works
+&nbsp;&nbsp;
+
+## How katna image module works
 
 All possible crops from the input image for the crop size is selected and passed through set of filters — [The rule of third](https://www.photographymad.com/pages/view/rule-of-thirds), [Saliency](https://blog.algorithmia.com/introduction-image-saliency-detection), face detection and edge detection. Images shown below are filter output of an image. Each of the filter gives a score to the crops. If the text retention filter is switched on then it filters out crops that cuts the text. The final emerging crops are sorted and then numbers of crops requested by the caller are returned.
 
-# What’s next
+![](/uploads/2021/01/03/katna_image_3.jpg)
+&nbsp;&nbsp;
+
+## What’s next
 
 We plan to add more filters in future like violence, nudity etc. to make it more robust.
 
