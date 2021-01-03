@@ -20,3 +20,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- content/english/projects/smart-image-cropping-with-katna.md
