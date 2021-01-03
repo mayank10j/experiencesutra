@@ -27,40 +27,40 @@ Katna can be installed either via PyPI or directly from source.
 
 * Install python 3
 * Install with pip
-
-            	pip install katna
-
+```
+pip install katna
+```
 **_Install from source_ —** Follow the steps below
 
 * Install git.
 * Install python 3.
 * Clone the git repo.
-
-            	git clone https://github.com/keplerlab/Katna.git
-
+```
+git clone https://github.com/keplerlab/Katna.git
+```
 Change the current working directory to the folder where you have cloned Katna repo.
-
-            cd <<path_to_the_folder_repo_cloned>>
-
+```
+cd <<path_to_the_folder_repo_cloned>>
+```
 If you use the anaconda python distribution then create a new conda environment. Keeping environment separate is a good practice.
-
-            conda create --name katna python=3
-            source activate katna
-
+```
+conda create --name katna python=3
+source activate katna
+```
 Run the setup
-
-    python setup.py install
-
+```
+python setup.py install
+```
 # How to use katna image module
 
 Import the video module from the katna library
-
-    from Katna.image import Image
-
+```
+from Katna.image import Image
+```
 Instantiate the image class.
-
-    img_module = Image()
-
+```
+img_module = Image()
+```
 Image class offers different cropping methods for different inputs. here is a quick list of different cropping methods
 
 1. **crop_image:** — To crop an image file. This function is useful when you have bunch of images to be cropped.
@@ -78,7 +78,26 @@ Let us look at the function definitions now.
 5. **filters**: You can use this **optional** parameter to specify image parts/objects that should be retained in the cropped image. At the moment only “text” retention filter is present. A text filter attempts to retain the texts in the image. Newer retention filters will be added in future. By default, filters are not applied.
 6. **down_sample_factor**: You can use this **optional** feature to specify the downsampling factor. For large images consider increasing this parameter for fast image cropping. By default input images are downsampled by factor of **8** before processing.
 
-    # number of images to be returned no_of_crops = 3 # crop dimensions crop_width = 1000 crop_height = 600 # Filters filters = ["text"]sampling_factor = 12image_file_path = <Path where the image is stored>crop_list = img_module.crop_image(   file_path=image_file_path,   crop_width=crop_width,   crop_height=crop_height,   num_of_crops= no_of_crops,   filters=filters,   down_sample_factor = sampling_factor)
+```
+# number of images to be returned
+ no_of_crops = 3
+
+ # crop dimensions
+ crop_width = 1000
+ crop_height = 600
+
+ # Filters
+ filters = ["text"]sampling_factor = 12image_file_path = <Path where the image is stored>
+
+crop_list = img_module.crop_image(
+   file_path=image_file_path,
+   crop_width=crop_width,
+   crop_height=crop_height,
+   num_of_crops= no_of_crops,
+   filters=filters,
+   down_sample_factor = sampling_factor
+)
+```
 
 **crop_image_from_cvimage —** It accepts opencv image as image source, rest of the parameters are same as _crop_image_ function.
 
@@ -100,3 +119,12 @@ Let us look at the function definitions now.
 # How katna image module works
 
 All possible crops from the input image for the crop size is selected and passed through set of filters — [The rule of third](https://www.photographymad.com/pages/view/rule-of-thirds), [Saliency](https://blog.algorithmia.com/introduction-image-saliency-detection), face detection and edge detection. Images shown below are filter output of an image. Each of the filter gives a score to the crops. If the text retention filter is switched on then it filters out crops that cuts the text. The final emerging crops are sorted and then numbers of crops requested by the caller are returned.
+
+# What’s next
+
+We plan to add more filters in future like violence, nudity etc. to make it more robust.
+
+We are thankful to open source community and project [smartcrop](https://github.com/jwagner/smartcrop.js/) especially that enabled us to reuse and the take good ideas forward. If you find the tool useful please do share the project.
+
+That’s it!! You can find a complete application [here](https://github.com/keplerlab/katna/blob/master/example_image.py).
+
