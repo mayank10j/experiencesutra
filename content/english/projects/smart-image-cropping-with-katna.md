@@ -28,30 +28,28 @@ Katna can be installed either via PyPI or directly from source.
 
 * Install python 3
 * Install with pip
-
 ```
-	pip install katna
+    	pip install katna
 ```
 **_Install from source_ —** Follow the steps below
 
 * Install git.
 * Install python 3.
 * Clone the git repo.
-
 ```
-	git clone https://github.com/keplerlab/Katna.git
+    	git clone https://github.com/keplerlab/Katna.git
 ```
-
 Change the current working directory to the folder where you have cloned Katna repo.
 ```
-cd <<path_to_the_folder_repo_cloned>>
+    cd <<path_to_the_folder_repo_cloned>>
 ```
 If you use the anaconda python distribution then create a new conda environment. Keeping environment separate is a good practice.
+
 ```
-conda create --name katna python=3
-source activate katna
+    conda create --name katna python=3
+    source activate katna
 ```
 Run the setup
 ```
-python setup.py install
+    python setup.py install
 ```
