@@ -51,4 +51,3 @@ Run the setup
 ```
         python setup.py install
 ```
-
