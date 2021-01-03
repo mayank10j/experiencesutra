@@ -21,4 +21,5 @@ fields:
   name: description
   label: description
 pages:
+- content/english/projects/alternat-the-open-sourced-alternate-text-generator.md
 - content/english/projects/smart-image-cropping-with-katna.md
