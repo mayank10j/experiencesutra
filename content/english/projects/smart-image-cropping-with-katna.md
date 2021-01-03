@@ -11,15 +11,17 @@ Some of the simple tasks for humans can be very tedious for machines. Image crop
 
 [Katna](https://github.com/keplerlab/katna) is a python based open source smart image cropping tool that can intelligently identify important elements of an image and retain it during cropping. Katna content — aware algorithm can also retain important texts in the image.
 
+&nbsp;&nbsp;
+
 ![](/uploads/2021/01/03/katna_crop1.jpg)
+
+&nbsp;&nbsp;
 
 ![](/uploads/2021/01/03/katna_crop_2.png)
 
 The best way to learn about Katna smart cropping module is to actually use it.
 
-The best way to learn about Katna smart cropping module is to actually use it.
-
-**Installation**
+### Installation
 
 Katna can be installed either via PyPI or directly from source.
 
@@ -38,19 +40,26 @@ pip install katna
 ```
 git clone https://github.com/keplerlab/Katna.git
 ```
+
 Change the current working directory to the folder where you have cloned Katna repo.
+
 ```
 cd <<path_to_the_folder_repo_cloned>>
 ```
+
 If you use the anaconda python distribution then create a new conda environment. Keeping environment separate is a good practice.
+
 ```
 conda create --name katna python=3
 source activate katna
 ```
+
 Run the setup
+
 ```
 python setup.py install
 ```
+
 ## How to use katna image module
 
 Import the video module from the katna library
