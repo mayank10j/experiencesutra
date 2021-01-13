@@ -2,7 +2,6 @@
 author = "Nitin Katyal"
 date = 2021-01-12T18:30:00Z
 description = "enhan(t) is an open source Chrome Extension that makes you super productive with the existing video conferencing solutions like Google Meet, Zoom, MS Teams and Jitsi. It enables you to take real time notes, bookmark important moments, and capture screenshots. It also helps you annotate within the opened page using pen, highlight and text tools."
-draft = true
 image = "/uploads/2021/01/13/enhan-t.jpg"
 image_webp = "/uploads/2021/01/13/enhan-t.jpg"
 title = "enhan(t) - A note taking tool"
