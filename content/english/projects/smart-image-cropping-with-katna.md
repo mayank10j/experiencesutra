@@ -7,7 +7,7 @@ image_webp = "/uploads/2021/01/03/katna.png"
 title = "Smart Image Cropping with katna"
 
 +++
-Some of the simple tasks for humans can be very tedious for machines. Image cropping is one of them. It's quite easy for human to identify the important area in a photo and decide the parts to retain or crop. But for machines, it is quite difficult.
+Some of the simple tasks for humans can be very tedious for machines. Image cropping and resizing is one of them. It's quite easy for human to identify the important area in a photo and decide the parts to retain or crop. But for machines, it is quite difficult.
 
 [Katna](https://github.com/keplerlab/katna) is a python based open source smart image cropping tool that can intelligently identify important elements of an image and retain it during cropping. Katna content — aware algorithm can also retain important texts in the image.
 
@@ -19,7 +19,7 @@ Some of the simple tasks for humans can be very tedious for machines. Image crop
 
 ![](/uploads/2021/01/03/katna_crop_2.png)
 
-The best way to learn about Katna smart cropping module is to actually use it.
+The best way to learn about Katna smart cropping and resizing module is to actually use it.
 
 ### Installation
 
@@ -125,6 +125,23 @@ crop_list = img_module.crop_image(
 4. filters
 5. down_sample_factor
 
+**resize_image —** It accepts the the target image width and height and automatically resizes image to that resolution.
+
+1. file_path:  Input file path
+2. target_width: output image width
+3. target_height: output image height
+4. down_sample_factor: number by which you want to reduce image height & width (use it if image is large or to fasten the process)
+You can get started quicky with Katna resize function following this 
+[quickstart resize_image](https://katna.readthedocs.io/en/latest/tutorials_image.html#resize-a-single-image)
+
+**resize_image_from_dir —** It accepts the the target images directory path as first parameter and recursively resizes all images in directory path to target width and height. Returns dict with key as filepath and resized image (in opencv format) as value.
+
+1. dir_path:  Input Directory path
+2. target_width: output image width
+3. target_height: output image height
+4. down_sample_factor: number by which you want to reduce image height & width (use it if image is large or to fasten the process)
+You can get started quicky with Katna resize function following this 
+[quickstart resize_image_from_dir](https://katna.readthedocs.io/en/latest/tutorials_image.html#resize-all-images-in-a-directory)
 &nbsp;&nbsp;
 
 ## How katna image module works
