@@ -9,12 +9,13 @@ title = "enhan(t) - A note taking tool"
 +++
 The COVID-19 pandemic is defining the global crisis of our time. Businesses are facing greatest challenges and have realised the need to transform digitally. Virtual meetings & e-learning have become more important than ever. Multiple platforms like Zoom, Google Meet, Jitsi, Microsoft Teams have emerged in the midst of this and businesses are using them aggressively. Though the tools are many, they all lack efficient and smart means of note-taking. This is where enhan(t) is useful.
 
-enhan(t) is an open source chrome extension that makes you super productive with the existing video conferencing solutions like Google Meet, Zoom, MS Teams and Jitsi. enhan(t) is enabled on these video conferencing platforms out-of-the-box but users can enable it on any site as per their requirement. With enhan(t) users can do the following:
+enhan(t) is an open source extension, available for both chrome and firefox, that makes you super productive with the existing video conferencing solutions like Google Meet, Zoom, MS Teams and Jitsi. enhan(t) is enabled on these video conferencing platforms out-of-the-box but users can enable it on any site as per their requirement. With enhan(t) users can do the following:
 
 * Bookmark to capture an important time in meeting.
-* Capture screenshots to take a timestamped screenshot of the tab.
+* Capture screenshots (full screen or selected area) to take a timestamped screenshot of the tab.
 * Take notes smartly using their voice.
 * Annotate the content within the tab with Pen, Highlight and Text tools.
+* Delete a note from the timeline.
 * Download notes as a zip file.
 * View data on a dashboard.
 
@@ -22,7 +23,7 @@ enhan(t) can be used during your sales calls, product walkthrough, interviews an
 
 Below is a short demo video for enhan(t) :
 
-{{< youtube 99iKVV3zoq8 >}}
+{{< youtube z3O-8wGKFmg >}}
 
 **enhan(t) data visualizer:**
 
