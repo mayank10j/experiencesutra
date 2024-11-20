@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 
 # baseURL = "http://localhost:2222/"
-baseURL = "https://experiencesutra.com/"
+baseURL = "https://experiencesutra.mayankjain.co.in/"
 title = "EXPERIENCESUTRA | Humanizing Technology"
 theme = "meghna-hugo"
 # post pagination
